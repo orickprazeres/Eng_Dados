@@ -1,0 +1,1501 @@
+Paciente,Médico,Sala,Agendado(S/N),Data,Retorno(S/N)
+Sra. Camila Oliveira,Yasmin Ramos,10,Não,"03/27/2004, 15:33:41",Sim
+Fernanda Gonçalves,Benjamin Viana,98,Sim,"07/29/2019, 01:00:06",Não
+Agatha Castro,Lucas Souza,20,Não,"06/12/2001, 08:04:40",Não
+Nina Cardoso,Mariane Monteiro,64,Não,"04/10/2009, 01:30:23",Sim
+Elisa Pinto,Lívia Castro,28,Sim,"07/02/2012, 22:42:10",Não
+Dr. Luigi Vieira,Sr. João Felipe Araújo,77,Sim,"10/20/1995, 14:08:34",Não
+Rafaeta Atves,Rafaela da Rosa,25,Sim,"08/12/2019, 22:22:02",Sim
+Bianca Fernandes,Clarice Teixeira,43,Sim,"10/05/1997, 19:19:56",Não
+Daniel da Mota,Sarah Ribeiro,7,Não,"12/28/1996, 01:33:26",Sim
+Maria Luiza da Mata,Thomas Moraes,55,Sim,"10/14/2006, 21:06:33",Não
+Luiz Felipe Melo,Nicole Martins,29,Não,"05/05/1993, 07:12:08",Não
+Luiz Fernando Monteiro,Sarah Ribeiro,54,Não,"11/26/2001, 21:30:03",Sim
+Júlia Fogaça,Thiago Cardoso,57,Não,"10/30/2012, 07:33:28",Sim
+Luiz Otávio Silveira,Helena Gonçalves,28,Sim,"02/05/2014, 12:46:12",Sim
+Dra. Yasmin Campos,Esther Lopes,4,Sim,"03/23/2018, 22:37:03",Sim
+Dr. Thales Monteiro,Clarice Jesus,77,Não,"08/13/1994, 11:23:33",Não
+Alice Nogueira,Davi Lucca Santos,7,Não,"03/03/2012, 19:43:20",Não
+Sr. Heitor Gonçalves,Isis Aragão,76,Sim,"09/18/1994, 12:38:34",Sim
+Pedro Miguel Martins,Marcelo Moura,52,Não,"06/25/1996, 22:33:27",Não
+Lívia Fernandes,Fernando Monteiro,95,Sim,"07/13/2003, 06:09:29",Sim
+Thales Azevedo,Guilherme Mendes,21,Não,"03/07/2004, 09:39:50",Sim
+Dr. Vicente Rocha,Joana das Neves,71,Não,"02/08/2014, 08:55:40",Não
+Catarina Carvalho,Júlia da Mota,32,Sim,"11/17/1992, 01:00:51",Sim
+Sarah Carvalho,Joana da Luz,24,Não,"11/08/2006, 14:25:11",Não
+Gustavo Lopes,Cauê Rodrigues,14,Não,"08/29/2001, 09:14:17",Não
+Luiza Santos,Davi Lucca Araújo,33,Não,"04/13/2003, 23:25:37",Não
+Maria Luiza Almeida,Laura Costela,70,Sim,"09/10/1992, 15:38:38",Sim
+Alexia Costela,Bárbara Monteiro,52,Não,"05/31/2016, 06:22:17",Não
+Luiz Fernando Santos,Felipe da Paz,52,Não,"07/03/2010, 03:28:25",Não
+Benjamin Caldeira,Bruno Barros,49,Não,"01/22/1995, 19:43:44",Sim
+Dra. Maria Eduarda Martins,Sarah Alves,34,Sim,"08/04/2005, 23:39:09",Sim
+Emanuella Costa,Thomas Jesus,70,Não,"06/20/1998, 16:14:01",Não
+Carolina Castro,Maria Vitória Costa,45,Não,"09/13/2009, 11:04:36",Não
+Pedro Miguel Cardoso,Dra. Ana Julia da Cruz,59,Não,"05/24/2014, 04:28:13",Não
+Marcelo Aragão,Gustavo Henrique Silva,44,Sim,"06/24/1992, 03:34:03",Sim
+Pedro Lucas Nunes,Caio Teixeira,89,Não,"10/04/2011, 17:48:29",Sim
+Sr. Diego Silva,Maria Julia da Rosa,55,Sim,"06/01/1998, 22:52:53",Não
+Davi Lucca Araújo,Ana Lívia da Rosa,97,Sim,"07/14/1997, 22:21:43",Não
+Maysa Pinto,Olivia Santos,79,Sim,"10/14/1997, 11:55:10",Não
+Isadora Campos,Daniel Moraes,56,Sim,"10/31/2015, 00:27:17",Sim
+Sr. Lucas Gabriel Pinto,Enzo Gabriel Vieira,72,Sim,"07/16/2011, 11:02:02",Sim
+Elisa Moura,Luiz Gustavo Cavalcanti,6,Sim,"06/04/2014, 05:22:57",Não
+Ana Laura darvalho,Dr. Enrico Nascimento,98,Não,"07/30/1996, 15:14:42",Não
+Davi Lucar Ribeiro,Dr. Enrico Nascimento,48,Não,"04/29/1997, 08:33:25",Não
+Dr. Marcelo Fernandes,Augusto Dias,26,Não,"12/04/2017, 07:18:55",Não
+Sabrina Moura,Caroline Moraes,50,Sim,"08/13/1993, 21:18:53",Não
+Kaique Oliveira,Sr. João Felipe Araújo,7,Sim,"12/15/2016, 08:17:50",Sim
+Davi Luiz Cardoso,Samuel Peixoto,24,Sim,"04/22/1991, 17:37:59",Não
+Lucca Nogueira,Thomas Jesus,90,Sim,"09/18/2018, 15:57:42",Sim
+Alana Carvalho,Lucca da Mota,41,Sim,"05/26/2008, 03:10:02",Não
+Bernardo Moraes,Maysa Novaes,94,Sim,"12/17/1990, 03:19:21",Sim
+Pedro Miguel Aragão,Srta. Maria Luiza Porto,56,Sim,"06/25/2014, 00:59:29",Sim
+Alana Moura,Melissa Novaes,54,Não,"11/10/2008, 00:21:53",Não
+Paulo Ferreira,Francisco Ramos,48,Sim,"08/19/2003, 10:56:57",Não
+Vitor Peixoto,Srta. Stella Gonçalves,15,Não,"06/03/1996, 10:54:24",Não
+Breno Pereira,João Felipe Ribeiro,32,Não,"02/16/2011, 11:56:57",Não
+Nathan Monteiro,Raul Santos,37,Sim,"11/13/2005, 22:47:39",Sim
+Dr. João Felipe Sales,Henrique Fernandes,38,Sim,"11/04/2018, 10:24:02",Não
+Dr. Vicente Rocha,Alexandre Lopes,50,Sim,"01/03/2016, 17:54:58",Sim
+Ana Carolina Rodrigues,Emanuelly Pires,11,Sim,"06/08/2017, 13:55:26",Sim
+João Guilherme Costela,Júlia Nascimento,89,Sim,"10-05-2016, 22-13-35",Não
+Sophia Farias,Breno Cardoso,21,Sim,"09/08/2005, 01:56:52",Não
+Julia Dias,Ian Nogueira,12,Sim,"06/02/2004, 15:35:25",Sim
+Mariane Carvalho,Maitê Mendes,41,Sim,"01/30/2007, 08:27:20",Não
+Maria Sophia Costela,Sra. Alice Barbosa,45,Sim,"03/22/2016, 17:53:12",Não
+Vitor Freitas,Caroline da Mata,51,Sim,"08/22/2016, 22:43:12",Não
+Natália Almeida,Maitê Mendes,81,Sim,"05/11/1999, 09:36:35",Sim
+Evelyn Barros,Luana Martins,79,Sim,"02/29/2000, 19:45:14",Sim
+Vitor Cavalcanti,Marcela da Rocha,44,Não,"01/02/2012, 10:28:03",Sim
+Nicolas Lopes,Sr. Pedro Henrique da Mota,91,Não,"03/15/1999, 05:34:21",Não
+Sr. Augusto Fogaça,Vitor Hugo Rocha,60,Sim,"09/24/2019, 22:16:11",Não
+Maria Clara Cardoso,Arthur Castro,57,Sim,"01/18/2017, 18:11:22",Sim
+Benício Pinto,Calebe Oliveira,14,Não,"02/01/2000, 15:10:43",Não
+Marina Freitas,Dr. Bruno Dias,70,Não,"11/25/2012, 04:09:24",Sim
+Sofia Cardoso,João Felipe Barros,39,Sim,"11/11/1994, 13:49:35",Sim
+Srta. Emanuelly Barros,Nina Rodrigues,27,Não,"01/02/2006, 09:29:09",Sim
+Mariane Correia,Giovanna Carvalho,3,Sim,"03/06/2011, 02:33:17",Não
+Joaquim Cunha,Esther Lopes,12,sim,"01/08/2012, 04:48:58",Sim
+Emanuella Vieira,Sofia Sales,53,Não,"10/13/1993, 02:22:25",Não
+Thiago Fernandes,Maria Cecília Duarte,56,Sim,"02/09/1995, 02:16:35",Sim
+Luiz Gustavo Rocha,Carolina Peixoto,66,Sim,"09/11/2002, 15:49:58",Sim
+Pietro Moreira,Melissa Moraes,34,Não,"06/28/2001, 22:46:29",Não
+Luiz Gustavo Pereira,Sr. Davi Lucca Oliveira,88,Sim,"12/12/1990, 18:25:41",Não
+Larissa Costa,Dra. Ana Lívia Pinto,51,Sim,"01/05/2010, 22:05:39",Não
+Lorenzo Alves,Gabriela Barbosa,72,Sim,"10/26/2014, 03:20:46",Não
+Srta. Maria Sophia Correia,Joana da Luz,98,Sim,"01/07/2007, 04:48:25",Sim
+Larissa Rodrigues,Luana Caldeira,39,Sim,"09/18/2015, 14:05:27",Não
+Luiz Fernando Duarte,Kamilly da Rosa,94,Sim,"08/10/2002, 23:53:58",Sim
+Diogo Lopes,João Vitor Ribeiro,89,Não,"02/23/1996, 17:38:14",Sim
+Alícia da Rosa,Mirella Teixeira,65,Sim,"07/30/2017, 18:10:32",Não
+João Vitor Rezende,Maria Luiza Campos,27,Não,"04/22/2009, 16:38:13",Sim
+Mariane Cunha,Luiz Miguel Lopes,69,Sim,"12/14/1996, 06:47:02",Sim
+Sr. Heitor Gonçalves,Luiz Gustavo Campos,17,Não,"08/01/2012, 08:10:50",Não
+Luiz Miguel Souza,Nicolas Lima,23,Sim,"11/28/1990, 00:02:14",Não
+Dra. Evelyn da Paz,Laura Costela,51,Sim,"01/03/2006, 14:30:38",Não
+Pietro Moreira,Isis Barbosa,34,Não,"03/11/1992, 03:33:32",Não
+Luiz Fernando Cardoso,Dra. Mariane da Costa,34,Não,"03/01/2012, 13:43:55",Sim
+Raquel Pereira,Dra. Maysa Azevedo,60,Sim,"02/05/2007, 13:53:12",Não
+Thomas Araújo,Emanuella da Conceição,65,Sim,"04/28/1999, 03:54:17",Não
+Mirella Oliveira,Vitor Hugo Almeida,16,Não,"05/13/2020, 21:55:15",Não
+Dr. João Miguel Araújo,Olivia da Cunha,79,Sim,"11/18/2010, 02:23:51",Não
+Breno Gonçalves,Caroline Viana,11,Sim,"04/03/2013, 09:35:56",Sim
+Lorena Oliveira,Yasmin da Cunha,28,Sim,"05/02/2006, 07:58:51",Sim
+Pedro Lucas Nogueira,Helena Pereira,45,Sim,"03/25/2016, 00:49:09",Sim
+Nicolas Souza,Esther da Rocha,30,Não,"03/04/2001, 15:08:41",Sim
+Bruna Ramos,Sr. Enzo Gabriel Almeida,55,Não,"08/06/2001, 16:38:19",Sim
+Erick Nunes,JMãM Felipe PeixMtM,16,Sim,"05/30/2018, 16:58:03",Não
+Marcelo Aragão,Vinicius Barbosa,31,Não,"05/17/1991, 21:29:55",Sim
+Luiz Miguel Silva,Isabel Campos,27,Sim,"01/20/1991, 08:27:22",Sim
+Evelyn Martins,Benjamin Barbosa,55,Não,"12/29/2011, 23:31:33",Não
+Arthur Melo,Fernanda Rezende,24,Sim,"03/01/1997, 08:24:36",Não
+Sra. Ana Luiza Nunes,Sra. Evelyn Fogaça,91,Não,"08/13/1996, 16:49:17",Não
+Noah Melo,Carolina Cardoso,42,Não,"09/17/2009, 10:24:49",Sim
+Stephany Novaes,Stella Silva,48,Sim,"09/24/2011, 19:29:02",Não
+Dr. Matheus Cavalcanti,Maria Alice Gomes,61,Sim,"11/13/1991, 08:14:41",Não
+João Oliveira,Brenda Alves,4,Sim,"11/24/2018, 03:57:13",Não
+Benício Nascimento,Rafaela da Rosa,42,Não,"11/16/2016, 20:06:16",Sim
+Yasmin Ferreira,Elisa Campos,99,Sim,"02/07/2014, 09:40:06",Não
+Gabriela Monteiro,Dr. João Guilherme da Costa,1,Sim,"01/09/1994, 11:42:27",Não
+Maria Luiza Duarte,Mirella Novaes,56,Não,"12/31/1990, 21:37:35",Não
+Thales Santos,Ana Luiza da Rocha,3,Sim,"07/25/2001, 08:28:44",Não
+Natália Fernandes,Melissa Carvalho,75,Não,"12/23/2007, 00:16:39",Não
+Henrjque Tejxejra,Isis Freitas,4,Sim,"10/16/1992, 00:56:48",Não
+Helena Novaes,Fernando Gonçalves,14,Sim,"11/07/2019, 18:58:19",Não
+Camila Castro,Srta. Ana Júlia da Cruz,58,Não,"01/02/2006, 02:16:09",Sim
+Sr. Bryan Nascimento,Bárbara Costela,51,Não,"03/27/2016, 01:38:47",Sim
+Bruna Peixoto,Juan Cardoso,76,Sim,"12/21/2006, 12:49:30",Não
+Raquel Pinto,Guilherme Mendes,53,Sim,"04/11/2013, 08:54:18",Sim
+Leonardo Ramos,Daniela da Paz,52,Não,"05/12/1995, 15:36:03",Não
+Alícia Araújo,Sabrina da Mota,32,Sim,"10/14/2006, 06:56:36",Não
+Bruna Mendes,Sra. Lorena Rezende,60,Não,"04/23/2011, 20:00:28",Não
+Thomas Costela,Gustavo Sales,32,Sim,"11/24/2005, 17:10:25",Não
+Bárbara Santos,Luigi da Mata,84,Sim,"07/22/2004, 01:34:04",Sim
+Benjamin Cunha,Dr. Pietro Lima,8,Não,"04/28/2002, 22:09:40",Não
+Alana Viana,Emanuel Costa,93,Não,"02/26/1995, 22:31:38",Não
+Ana Vitória Teixeira,Dr. Noah Jesus,47,Sim,"04/07/2014, 21:24:41",Não
+Maria Nunes,Marcos Vinicius da Costa,84,Sim,"04/28/2007, 08:00:38",Sim
+Srta. Maria Sophia Correia,Davi Souza,33,Não,"04/07/2008, 12:38:12",Não
+Sr. João Gabriel Peixoto,Heitor da Cruz,4,Não,"04/19/1997, 10:10:10",Não
+Enrico Ferreira,Srta. Ana Julia Costela,24,Sim,"03/14/2020, 06:34:50",Sim
+Igor da Rocha,Dr. Luiz Otávio Correia,7,Sim,"07/13/2005, 01:58:38",Não
+Heloísa Rodrigues,Eloah Farias,62,Não,"06/22/1995, 13:59:14",Não
+Maria Luiza da Costa,NNcole Jesus,12,Sim,"03/01/2016, 13:24:03",Sim
+Dra. Evelyn Viana,Danilo Gonçalves,22,Não,"03/03/1996, 23:57:28",Não
+Paulo Lopes,Dra. Maysa Azevedo,83,Não,"03/01/2000, 04:45:10",Não
+Dra. Maysa Porto,Dr. Davi Lucas Santos,92,Sim,"01/30/2006, 08:10:58",Sim
+Emanuel Cunha,Theo da Cruz,84,Sim,"07/23/2010, 15:01:04",Não
+Bruno Peixoto,Davi Lucca Rodrigues,87,Sim,"01/10/1996, 04:20:56",Não
+Igor Gomes,Marcos Vinicius Aragão,72,Não,"07/21/2003, 03:07:34",Não
+Heitor Porto,Amanda da Mota,73,Não,"10/27/1999, 17:25:57",Não
+Dra. Valentina Costa,Sofia Sales,19,Sim,"11/16/1995, 04:31:12",Sim
+Julia Dias,Daniela Souza,4,Não,"01/18/2016, 02:31:58",Não
+Sr. Murilo Nunes,Dr. Pedro Cavalcanti,19,Não,"10/14/1997, 07:14:09",Sim
+Elisa Cardoso,Joana Silveira,90,Não,"08/22/2019, 19:47:51",Não
+Sophia Cardoso,Gabriel da Rosa,4,Sim,"02/27/2011, 03:25:18",Não
+André da Paz,Bárbara Monteiro,4,Sim,"02/07/2005, 22:19:55",Não
+Thomas Santos,Davi Lucca Fernandes,89,Sim,"01/11/2012, 01:57:16",Sim
+Sr. João Gabriel Peixoto,Emanuella Freitas,66,Sim,"04/06/2017, 17:45:13",Sim
+Juan Lima,Arthur Castro,63,Sim,"06/08/2019, 17:18:33",Sim
+Nicole Novaes,Emanuel Carvalho,98,Sim,"04/30/2003, 03:13:22",Não
+Alana Carvalho,Alexandre Lopes,31,Não,"08/04/2008, 18:39:43",Não
+Gustavo das Neves,Yasmin Teixeira,55,Sim,"11-01-1996, 11-37-42",Não
+Felipe Azevedo,Bryan da Cunha,55,Não,"03/12/1996, 19:18:09",Não
+Marcos Vinicius Rodrigues,Lucas Moura,28,Sim,"11/14/2012, 05:53:32",Sim
+Luiza Rezende,Benício Rezende,63,Não,"08/23/1994, 03:03:38",Sim
+Diego da Conceição,Dra. Ana Clara Jesus,5,Sim,"02/13/2002, 06:54:03",Não
+Sr. Guilherme Jesus,Luna Lima,8,Sim,"09/05/2017, 14:46:09",Não
+Dra. Beatriz Silveira,Júlia Oliveira,44,Sim,"06/14/1998, 12:39:08",Não
+Dra. Ana Clara Cavalcanti,Stella Nogueira,28,Não,"11/01/2009, 00:12:16",Não
+Dra. Ana Sophia Santos,Larissa Moreira,15,Não,"10/03/2012, 14:46:51",sim
+Davi Luiz da Mata,Lucca Teixeira,36,nao,"08/02/2011, 03:17:59",Não
+Laís Novaes,Srta. Maria Julia Alves,48,Não,"11/01/2000, 03:43:50",Sim
+Sra. Lorena Rocha,Luiz Gustavo Peixoto,27,Não,"07/07/2015, 10:33:21",Não
+Maria Eduarda Nascimento,Melissa Alves,39,Não,"02/03/2020, 16:19:35",Sim
+Enrico Ferreira,Olivia Santos,12,Sim,"05/20/1996, 22:14:39",Não
+João Gabriel Araújo,Sarah da Mata,74,Não,"10/22/1991, 09:35:09",Sim
+Mariane da Mata,Sr. João Felipe Pires,58,Sim,"03/25/2003, 20:55:31",Sim
+Ana Carolina Fernandes,João Gabriel Novaes,79,Sim,"08/27/2005, 18:45:01",Não
+Isadora da Rocha,Vitor Cardoso,21,Sim,"06/03/2001, 05:12:14",Não
+Nicolas Costa,Davi da Cruz,74,Não,"04/22/1992, 15:36:16",Não
+Levi Moraes,Carolina Silveira,11,Não,"09/19/1999, 06:47:26",Sim
+Thomas Novaes,Isadora Costa,98,Sim,"08/16/1994, 16:33:02",Não
+Otávio Almeida,Emanuella Oliveira,57,Sim,"12/03/1995, 01:06:30",Não
+Alice Monteiro,Emilly Souza,72,Sim,"08/10/2011, 18:13:28",Não
+Sra. Isis Aragão,Sr. Lucca da Costa,71,Sim,"07/02/1995, 19:01:54",Sim
+Dr. Vitor Gabriel Mendes,Sofia Ferreira,88,Sim,"08/15/1997, 22:08:06",Sim
+Lavínia Viana,Dra. Carolina das Neves,32,Não,"11/11/2006, 18:16:50",Sim
+Srta. Rebeca Rodrigues,Leonardo Moraes,73,Não,"04/03/1996, 08:44:35",Não
+Julia Ramos,Alice Barros,88,Sim,"11/02/2001, 09:16:04",Sim
+Emanuella da Cunha,Lavínia Gomes,19,Sim,"04/10/2010, 09:59:12",Sim
+Augusto Araújo,Letícia Nunes,76,Não,"09/19/2014, 12:37:23",Sim
+Marcela Castro,Dra. Isabel Gonçalves,23,Sim,"07/08/1997, 15:43:17",Não
+Srta. Carolina Ribeiro,Sr. Gustavo Henrique da Rosa,32,Sim,"07/30/2010, 06:54:25",Não
+Ana Carolina Caldeira,Emanuella da Conceição,20,Sim,"10/13/2017, 01:35:34",Não
+Ana Sophia Cardoso,Biafca Cufha,29,Sim,"01/11/2017, 18:03:56",Sim
+Erick das Neves,Mariana Nascimento,57,Sim,"08/05/2001, 22:52:50",Sim
+Bárbara Santos,Luiz Henrique Aragão,56,Sim,"02/25/1994, 03:35:46",Sim
+Thiago Campos,Maitê Mendes,83,sim,"06/16/1993, 23:41:58",Sim
+Thales Santos,Elisa da Costa,90,Sim,"01/14/2013, 21:31:37",Sim
+Benício da Luz,Yasmin Carvalho,95,Sim,"06/09/1997, 20:58:30",Não
+Clara Barbosa,Evelyn Duarte,15,Sim,"09/14/2018, 13:40:58",Sim
+Thomas Costela,Davi Lucca da Mata,8,Não,"10/30/2015, 12:18:08",Não
+Dra. Isabel da Cruz,Ana Luiza da Costa,82,Não,"05/20/1997, 18:39:35",Sim
+Maria Fernanda Moraes,Sr. Cauã Costela,23,Não,"12/14/1995, 12:23:26",Não
+Leonardo Moraes,Júlia Pereira,62,Sim,"09/23/1993, 16:55:48",Não
+Marcela Souza,Nathan Cardoso,35,Não,"09/09/2000, 01:42:54",Não
+Pedro Lucas Ferreira,Enzo da Mota,14,Sim,"02/18/1991, 02:51:46",Sim
+Lorenzo da Mota,João Almeida,86,Sim,"11/26/2000, 22:49:09",Não
+Luiz Felipe Gonçalves,Gustavo Henrique da Rocha,74,Sim,"01/17/2017, 17:03:40",Sim
+Mariane Carvalho,Yasmin Campos,39,Sim,"09/13/1992, 17:57:59",Sim
+Ana Julia Nascimento,Eloah Ribeiro,10,Não,"07/02/2001, 20:02:42",Não
+Dr. Luigi Cunha,Daniela da Mota,53,Não,"12/31/2010, 18:50:50",Sim
+Brenda Santos,Dr. Davi da Mota,51,Sim,"09/02/1999, 22:52:13",Sim
+Dr. Levi Cardoso,Carolina Pereira,83,Não,"12-15-1992, 19-32-45",Não
+Pedro Henrique Fogaça,Sra. Maria Vitória Gomes,35,Não,"08/01/2003, 04:34:37",Sim
+Enzo Gabriel Rezende,Heloísa Almeida,60,Não,"02/03/2018, 13:46:22",Não
+Isadora Moreira,João Felipe Viana,18,Não,"06/26/2013, 15:00:58",Sim
+Luiz Henrique Costela,Luiz Felipe Vieira,26,Sim,"01/06/1992, 21:07:50",Sim
+Luiz Fernando Ribeiro,Amanda Duarte,62,Não,"05/23/2005, 06:51:55",Não
+Rafaela Souza,Cauê Peixoto,2,Não,"05/20/2019, 21:47:39",Não
+Ana Laura Santos,Sr. Benjamin da Mata,80,Sim,"04/26/2001, 08:59:29",Não
+Melissa da Mota,Dr. Gustavo Moraes,65,Sim,"04/17/2000, 11:46:50",Sim
+Alexia da Paz,Davi Luiz Nogueira,47,sim,"12/19/2013, 06:59:16",Sim
+Gabriel Moura,Miguel Jesus,8,Não,"05/30/1994, 23:50:03",Sim
+Gabriela Lopes,Dr. Luigi Araújo,36,Sim,"08/30/1995, 20:03:29",Sim
+Sr. Davi Lucca Castro,Dr. Fernando Lima,15,Não,"01/13/2010, 00:33:33",Sim
+Olivia Teixeira,Melissa Alves,72,Sim,"07/04/2000, 17:26:51",Não
+Pedro Henrique Cavalcanti,Matheus Campos,48,Sim,"04/08/2010, 01:22:05",Sim
+Vitor Gabriel Oliveira,Stephany Lopes,71,Não,"06/20/1999, 00:19:58",Sim
+Helena da Cunha,Dr. Gustavo Fernandes,68,Não,"05/23/2020, 13:10:52",Sim
+Lívia Rocha,Melissa Fogaça,24,Não,"09/20/1993, 00:27:29",Sim
+Sarah Caldeira,Sr. Miguel Vieira,82,Não,"09/08/1992, 15:04:17",Não
+Vitor Rodrigues,Olivia da Rocha,28,Sim,"04/03/2006, 23:53:56",Não
+Rebeca Araújo,André Ferreira,81,Não,"10/08/1998, 05:09:43",Sim
+Lucas Gabriel da Cunha,João Vitor Nunes,23,Não,"02/02/2011, 17:16:49",Sim
+Helena da Cunha,Isabelly Teixeira,75,Não,"10/31/1994, 23:51:25",Sim
+Dra. Elisa Carvalho,Yuri da Paz,1,Não,"07/17/2011, 02:07:45",Não
+Ana Laura Moreira,Sr. Benjamin da Mata,99,Sim,"07/26/1990, 05:18:49",Sim
+Rafaela Silveira,Nicole da Cunha,11,Não,"01/05/2007, 21:20:17",Não
+Luiz Fernando Fogaça,Sra. Lorena Castro,45,Sim,"08/08/2003, 03:16:12",Sim
+vatália das veves,Maria Sophia Gonçalves,18,Sim,"05/25/2007, 20:25:36",Não
+Luiz Guhtavo Fernandeh,Sra. Heloísa da Mata,35,Não,"03/07/2017, 22:15:29",Não
+Ana Laura Silveira,Leonardo Cunha,18,Sim,"08/07/2012, 13:42:07",Sim
+Breno Farias,Enrico Porto,87,Sim,"12/27/2002, 16:22:08",Não
+Bryan Nogueira,Rodrigo Pires,77,Não,"10/25/2002, 04:04:33",Sim
+Ryan Nogueira,Renan Moreira,67,Sim,"02/01/2004, 12:13:00",Sim
+Laura Pinto,Sr. Danilo Costela,36,Não,"04/13/2012, 23:15:17",Não
+Sophia Ferreira,Larissa Moreira,9,Não,"11/17/2015, 19:30:47",Não
+Joana Ribeiro,Stella Santos,7,Sim,"06/21/2020, 04:56:39",Não
+Heloísa Silveira,Eduarda Dias,49,Não,"11/21/1991, 01:07:54",Sim
+Dra. Ana Vieira,Maria Clara Santos,51,Sim,"04-03-2011, 13-12-32",Sim
+Isaac Ferreira,Mirella Melo,30,Sim,"04/19/2011, 15:31:13",Não
+Enzo Gabriel Caldeira,Stella Ribeiro,87,Sim,"04/27/2012, 12:58:11",Sim
+Mariane Oliveira,Srta. Eloah Cavalcanti,75,Não,"01/19/2003, 04:24:20",Sim
+Sr. Francisco Monteiro,Isaac Souza,40,Sim,"08/10/1995, 18:32:32",Sim
+João Lucas Nunes,Davi Lucca Costa,11,Não,"10/31/2018, 22:24:46",Sim
+Laura Nascimento,Sabrina da Mota,10,Sim,"06/10/2015, 20:42:05",Sim
+Sr. Thomas da Mata,Lucas da Costa,36,Não,"10/15/1990, 05:54:34",Não
+Sra. Julia Costa,Marcos Vinicius da Costa,12,Não,"10/16/2005, 00:53:24",Sim
+Dra. Bruna Porto,Erick Rocha,63,Não,"01/06/2006, 03:39:51",Sim
+Mariane Oliveira,Diogo Silva,77,Sim,"10/31/2016, 06:29:07",Sim
+Luiz Miguel Correia,Gustavo Henrique Silva,63,Não,"10/23/2009, 17:29:53",Sim
+Gustavo Henrique da Rosa,Juan Novaes,52,Sim,"08/15/1992, 23:20:46",Não
+Srta. Maria Clara da Paz,Pedro das Neves,26,Sim,"05/17/2012, 06:21:25",Não
+Pedro Rocha,Kaique das Neves,98,Não,"11/21/2012, 04:08:11",Sim
+Pedro Henrique Barbosa,Renan Moreira,40,Não,"08/19/1993, 16:34:21",Sim
+Maria Nunes,Thiago Moura,29,Sim,"12/28/1991, 11:52:17",Não
+Stella Melo,Luiz Gustavo Lopes,58,Não,"10/23/1997, 06:53:45",Sim
+Bernardo Cardoso,DQnielQ dQ MotQ,75,Não,"10/07/1994, 21:02:46",Não
+Rafael Fernandes,Pedro Lucas Porto,79,Sim,"02/08/2015, 16:06:24",Sim
+Enzo Cardoso,Bianca Cunha,28,Não,"01/01/1992, 05:03:14",Sim
+Sabrina da Conceição,Emanuel Barbosa,81,Não,"12/27/2013, 09:39:41",nao
+Larissa wosta,Dra. Júlia Mendes,38,Sim,"12/22/2015, 17:43:02",Não
+Miguel Nunes,Sr. Pedro Henrique da Mota,32,Não,"01/23/1995, 01:40:55",Não
+Bárbara Castro,Cauê Santos,7,Não,"11/12/2001, 20:09:59",Não
+Otávio Gomes,Marcos Vinicius Porto,61,Sim,"10/17/2000, 20:40:01",Não
+Enzo Gabriel da Luz,Dr. Thales Vieira,30,Sim,"07/29/1992, 17:21:41",Sim
+Sra. Laís Monteiro,Erick Alves,16,Sim,"07/16/1998, 22:16:29",Não
+Dr. Nathan Lima,Maria Clara Costa,6,Não,"11/19/2008, 13:43:30",Sim
+Daniela Nunes,Vitor Hugo Rocha,74,Sim,"03/30/2007, 09:01:47",Sim
+Leonardo Aragão,Matheus da Luz,42,Sim,"10/08/2019, 11:14:05",Sim
+Marcelo Cardoso,Maria Luiza Santos,7,Não,"09/18/1996, 04:24:13",Sim
+Rafael Barbosa,Lucca Aragão,18,Sim,"12/28/2011, 05:06:28",Não
+Lucca Silveira,Renan Nogueira,38,Sim,"04/14/2002, 09:24:39",Não
+Diego Almeida,Maria Vitória Souza,14,Sim,"05/23/2020, 01:26:10",Não
+Vicente Correia,Sr. Vicente Teixeira,25,Sim,"05/13/2001, 15:08:21",Sim
+Leonardo Duarte,Sofia Teixeira,4,Sim,"10/19/1991, 11:18:24",Não
+Sra. Mirella Moura,Ana Clara Martins,12,Sim,"10/19/2003, 13:25:30",Sim
+tlisa Nogueira,Thomas Farias,11,Sim,"01/12/1998, 05:59:16",Sim
+Vitor Gabriel Costa,Dr. Henrique Martins,54,Não,"10/02/2013, 16:21:01",Não
+Nina Ramos,Enzo Gabriel Cardoso,82,Sim,"11/20/2017, 11:10:04",Não
+Davi Lucca Monteiro,Luigi da Cruz,90,Não,"01/15/2004, 06:05:49",Não
+Juan Silveira,Sophia Vieira,99,Não,"01/14/2020, 01:36:11",Não
+Dr. Nicolas Carvalho,Juan Martins,8,Não,"12/28/2017, 08:36:46",Não
+Bárbara Nascimento,Thiago das Neves,81,Sim,"02/25/2014, 00:50:14",Não
+Dr. Vicente Rocha,Laura Ribeiro,78,Não,"09/11/1994, 14:13:26",Não
+Olivia Teixeira,Amanda Teixeira,90,Não,"12/31/1997, 15:44:02",Sim
+Catarina Sales,Pietra Souza,74,Não,"10/21/2018, 22:15:46",Sim
+Bryan Almeida,Thomas Moraes,67,Sim,"10/28/2000, 15:47:41",Sim
+Davi Lucca Monteiro,Isaac Souza,20,Sim,"03/17/1994, 03:25:04",Não
+João Pedro Moreira,Paulo Rezende,79,Sim,"11/18/2004, 00:01:35",Sim
+Marcos Vinicius Campos,Mirella Carvalho,62,Não,"04/26/1996, 19:07:46",Sim
+Clara Campos,Theo Castro,51,Sim,"04/13/2011, 16:14:35",Não
+Ana Sophia Cardoso,Lorena Alves,33,Não,"10/22/1993, 08:34:40",Não
+Laura Nascimento,Maria Vitória Peixoto,22,Não,"03/10/1998, 17:10:07",nao
+Bruno Peixoto,Brenda da Paz,4,Não,"09/11/2017, 15:42:29",Sim
+Catarina Fernandes,Evelyn Souza,28,Não,"07/01/2014, 06:57:08",Não
+Cauã Cavalcanti,Breno das Neves,9,Não,"03/22/2012, 13:19:19",Sim
+Sofia Nunes,Melissa Barbosa,61,Não,"01/28/2017, 07:26:43",Sim
+Igor Gomes,Kaique Santos,26,Sim,"12/26/2005, 20:50:49",Sim
+Davi Lucca Oliveira,Laura Pires,37,Sim,"03/08/2014, 23:33:29",Sim
+Dr. Thales Campos,Mariana Freitas,43,Não,"01/01/2017, 16:44:59",Não
+Dr. Breno Rocha,Sra. Gabriela da Mata,1,Não,"07/18/2005, 23:35:37",Sim
+Vitor Gabriel Mendes,Clara da Mota,65,Não,"02/16/2001, 05:37:48",Sim
+Maria Clara Santos,Felipe Cavalcanti,16,Não,"07-26-2013, 09-59-56",Sim
+Sophia da Rocha,Guilherme Fernandes,5,Não,"02/24/2002, 05:25:48",Não
+Erick Teixeira,Felipe Cavalcanti,41,Sim,"11/03/1991, 20:03:43",Sim
+Luiz Gustavo Vieira,Alice Oliveira,98,Não,"10/28/2004, 17:16:46",Sim
+Stella Farias,Nina Almeida,17,Não,"07/27/1994, 07:36:40",Sim
+Ana da Paz,Miguel da Rosa,61,Sim,"12/06/2016, 00:38:00",Não
+Rafaela Nascimento,Isabelly Alves,19,Não,"04/04/2020, 20:21:49",Não
+Letícia Moraes,Clarice Pereira,38,Não,"03/28/2020, 21:00:52",Sim
+Thomas Viana,Olivia da Cunha,63,Sim,"12/05/1998, 06:47:31",Sim
+Gaoriela da Rocha,Murilo da Rocha,83,Sim,"03/17/1996, 04:35:27",Não
+Clara Cavalcanti,Manuela Santos,38,Sim,"07/14/2014, 13:07:11",Não
+Ana Carolina Rodrigues,Vitória Fogaça,23,Sim,"06/27/1993, 12:45:22",Não
+Sra. Lorena Rocha,Maitê Aragão,62,Não,"12/07/2017, 05:57:54",Não
+Laura Pinto,Ana Monteiro,32,Não,"12/21/2008, 12:30:05",Sim
+Ana Júlia Nunes,Nathan da Mata,63,Sim,"02/11/2018, 22:15:20",Não
+Heitor Cavalcanti,Renan Nogueira,79,Sim,"07/17/1994, 21:23:14",Sim
+Enrico Nunes,Thomas Sales,81,Não,"11/26/2011, 10:35:00",Sim
+Isis da Paz,Letícia Rezende,89,Sim,"01/30/2020, 22:50:12",Sim
+Sra. Camila Oliveira,Fernando Lopes,27,Não,"08/23/2017, 11:11:31",Não
+Marcos Vinicius Ribeiro,Ana Lívia Barros,36,Sim,"10/29/1992, 07:18:34",Sim
+Rafael Melo,João Lucas Gonçalves,29,Sim,"12/05/1996, 04:09:40",Sim
+Sofia Silva,Evelyn Rocha,69,Não,"10/21/1997, 18:14:37",Sim
+Luigi Ribeiro,Camila Cardoso,66,sim,"03/27/2006, 08:30:39",Sim
+João Guilherme Nunes,Sofia Carvalho,93,Não,"06/03/2006, 00:46:20",Não
+Sabrina Caldeira,Ana Julia Cardoso,48,Sim,"07/09/2009, 06:21:49",Não
+Bruno Peixoto,Gabrielly Nunes,45,Não,"10/19/2009, 17:27:54",Não
+Helena Novaes,Isabel Cardoso,36,Sim,"12/19/2005, 09:35:53",Não
+Ian da Conceição,Julia Pires,50,Sim,"09/03/1999, 17:54:44",Não
+Antônio Monteiro,Davi Lucca Ramos,24,nao,"05/08/2018, 10:06:09",Sim
+Leonardo Moraes,Gabriel da Cunha,42,Não,"09/18/2015, 19:01:19",Sim
+Srta. Nina Vieira,Dr. Luiz Felipe das Neves,39,Sim,"03/25/2010, 17:46:45",Sim
+Vitória Campos,Guilherme Santos,64,Não,"05/22/2011, 00:36:08",Não
+Isabelly Martins,Dra. Olivia Santos,5,Não,"03/10/2000, 17:14:48",Sim
+Isis Silva,Brenda Alves,79,Sim,"07/18/1997, 03:41:39",Não
+Noah Freitas,Daniela da Mota,88,Não,"08/11/2014, 08:10:51",Sim
+Maria Eduarda Monteiro,Ana Sophia Nunes,97,Não,"10/16/2015, 02:24:19",Sim
+Enzo Novaes,Gabriela da Mota,5,Sim,"10/27/2016, 08:21:22",Sim
+João Pedro Lopes,Gabriel da Cunha,52,Não,"02/23/2009, 14:53:26",Sim
+Lucca Silveira,Bárbara Cardoso,80,Não,"10/28/2013, 18:45:02",Não
+Thomas Barros,Giovanna Aragão,44,Sim,"03/21/2014, 03:37:26",Não
+Srta. Ana Carolina Viana,Catarina Ribeiro,42,Sim,"12/27/1991, 11:04:40",Sim
+Lorenzo Cardoso,Joana Peixoto,70,Não,"11/16/2001, 07:44:08",Não
+Larissa Barbosa,Maria Alice Oliveira,6,Não,"04/16/2013, 02:34:31",Não
+Pedro Lucas Nunes,Matheus Campos,65,Sim,"01/22/2004, 09:12:41",Sim
+Srta. Maria Clara Fernandes,Gabrielly da Costa,26,Não,"09/11/1996, 20:35:04",Sim
+Luiz Gustavo Vieira,Ana Beatriz Oliveira,98,Não,"06/10/2011, 02:06:12",Não
+Raquel Araújo,Maysa Ramos,4,sim,"09/02/2014, 08:04:15",Sim
+Kamilly da Cunha,Sr. Bernardo Rezende,19,Sim,"11/02/1993, 23:39:07",Sim
+Dr. Thales Jesus,Carolina Lima,56,Sim,"09/26/1994, 02:01:17",Não
+Danilo Oliveira,Paulo Silva,70,Sim,"05/27/2011, 12:56:21",Não
+Isabel Teixeira,Isis Aragão,56,Não,"09/07/2001, 22:19:34",Sim
+Heloísa Azevedo,Dr. Gustavo Rocha,3,Não,"02/06/2013, 10:18:16",Não
+Yuri Monteiro,Agatha Rodrigues,12,Sim,"02/11/2011, 21:49:40",Sim
+Natália da Mota,Júlia Nogueira,96,Não,"10/16/2013, 10:03:37",Sim
+Olivia Sales,Esther da Rosa,59,Sim,"08/23/1991, 03:34:03",Não
+Sra. Maria Eduarda Santos,Stephany Pires,12,Não,"01/17/1991, 07:36:01",Sim
+Nicolas Peixoto,Sophia Jesus,1,Sim,"10/21/2008, 12:16:30",Não
+Leandro Pinto,Erick Rocha,79,Não,"05/16/1994, 04:37:26",Não
+Dr. Murilo da Mota,Fernanda Sales,29,Não,"08/17/2019, 03:31:30",Sim
+Agatha Vieira,Sr. Davi Lucca Oliveira,87,Sim,"04/15/2015, 14:59:58",Sim
+Augusto da Cruz,Leandro Campos,24,Não,"09/19/2009, 22:49:48",Sim
+Carlos Eduardo da Mata,Yasmin da Cunha,23,Não,"05/25/2001, 04:50:34",Não
+Henrique Alves,Isabel Cardoso,64,Sim,"07/21/1994, 18:15:51",Não
+Srta. Ana Laura Ramos,Theo Barbosa,21,Não,"10/08/2012, 18:50:48",Sim
+Noah Costa,Sabrina da Mota,25,Não,"07/29/1991, 14:19:22",Sim
+Luiz Fernando Mendes,Maysa Castro,94,Não,"05/15/2018, 12:32:57",Não
+Dr. Marcelo Fernandes,Gabriel da Conceição,27,Não,"11/19/2013, 21:30:29",Não
+Ana Julia Porto,Ana Sophia Peixoto,63,Sim,"03/04/2010, 20:29:55",Não
+Melissa Moura,Murilo Martins,46,Não,"10/01/1994, 23:11:04",Sim
+Leandro da Cruz,Lucca Azevedo,50,Sim,"10/12/2009, 12:18:00",Não
+Marcos Vinicius Rodrigues,André Vieira,84,Sim,"10/21/2006, 00:41:14",Sim
+Bruno Lima,Nicolas Almeida,54,Sim,"05-02-2009, 08-42-52",Não
+Rebeca Ramos,Calebe Novaes,73,Não,"04/28/2000, 04:36:41",Não
+Dr. Vicente Rocha,Sr. Nicolas Moraes,36,Sim,"12/02/2015, 10:59:18",Não
+Isadora Teixeira,Davi Luiz Nogueira,68,Não,"01/06/2006, 13:30:59",Sim
+Isadora Teixeira,Francisco Pinto,58,Sim,"08/21/2002, 08:57:48",Sim
+Danilo Souza,Theo Carvalho,95,Não,"12/10/2000, 08:02:56",Sim
+Sr. Carlos Eduardo Novaes,Sra. Kamilly da Rocha,91,Sim,"11/17/1995, 09:19:14",Não
+Levi Moraes,Ana Clara Novaes,96,Sim,"06/21/1996, 02:01:58",Sim
+Ana Clara Melo,João Gabriel Novaes,32,Não,"12/08/2004, 18:12:14",Não
+Maria Fernanda Azevedo,Rafaela da Mata,40,Sim,"11/30/1992, 01:55:39",Sim
+Dr. Otávio Costa,Samuel Pereira,47,Não,"08/12/1990, 21:25:03",Não
+Dr. Ian Fernandes,Sr. Diogo da Paz,21,Não,"02/05/1998, 06:51:08",Sim
+Cauã Pires,Leonardo Moraes,34,Não,"10/08/2017, 18:47:03",Sim
+Srta. Milena Fogaça,Sophia Rodrigues,86,Sim,"06/13/1999, 04:54:16",Não
+Thiago Teixeira,Dr. Lorenzo Araújo,3,Sim,"11/01/2017, 15:29:11",Não
+Pedro Henrique Barbosa,Rodrigo Pires,82,Sim,"05/10/2020, 08:42:54",Sim
+Sra. Julia Lopes,Maria Teixeira,35,Não,"07/09/1997, 20:46:36",nao
+Erick da Cruz,Catarina Rocha,38,Não,"05/07/1997, 19:45:06",Não
+Manuela Barros,Maria Clara Barros,70,Sim,"12/31/2018, 20:24:24",Não
+João Vitor Silva,Sr. Felipe Lopes,61,Sim,"03/04/2000, 06:09:58",Não
+Erick Nunes,Ian Moura,42,Não,"10/17/1991, 18:17:24",Não
+Renan Fernandes,Olivia Rocha,78,Sim,"06/21/1993, 22:17:55",Não
+Dr. Enzo Gabriel Carvalho,Srta. Marcela da Conceição,14,Sim,"03/26/1991, 20:20:39",Não
+Kamilly da Cunha,Evelyn Gomes,42,Não,"02/17/2018, 05:39:28",Não
+Sr. Eduardo da Conceição,Sr. Nicolas Cunha,45,Não,"04/10/2020, 13:07:17",Não
+Francisco Gomes,Drd. Lund Mendes,80,Não,"01/18/2011, 21:44:56",Não
+Gabriela Lopes,Sra. Alana Pires,27,Não,"06/15/2003, 17:13:51",Sim
+Vitor Gabriel Cardoso,Paulo Porto,3,Sim,"02/13/2017, 21:05:57",Sim
+Laís Sales,Rodrigo Moreira,88,Sim,"07/08/2007, 03:25:03",Não
+Theo Araújo,Eduardo Nascimento,91,Sim,"10/21/2009, 10:49:13",Sim
+Ana Laura Moreira,Bárbara Azevedo,87,Sim,"02/22/1993, 21:29:15",Sim
+Dra. Melissa Peixoto,Luiz Felipe Pinto,16,Sim,"02/27/2008, 03:15:19",Não
+João Miguel Fogaça,Augusto Dias,27,Sim,"06/18/2011, 19:36:32",Não
+Luigi Mendes,Sr. Breno Mendes,24,Não,"11/20/2017, 21:32:13",Sim
+Henrique Pereira,Dra. Nina Ramos,78,Sim,"02/08/2003, 22:29:33",Sim
+Emilly da Cruz,Otávio Moreira,44,Não,"07/26/2006, 05:42:12",Sim
+Dr. João Miguel Araújo,Henrique Lopes,89,Sim,"04/17/2017, 06:47:37",Não
+Letícia Farias,Henrique Fernandes,66,Sim,"09-03-2008, 17-49-28",Não
+Vitor Hugo Barbosa,Clara Silva,45,Não,"04/27/2014, 10:37:12",Não
+Alana Oliveira,Yuri da Paz,32,Não,"04/29/2001, 06:54:53",Sim
+Esther Correia,Clarice Jesus,79,Não,"04/13/2012, 19:41:05",Não
+Dr. Gustavo Henrique Costa,Sabrina Mendes,43,Sim,"02/10/2019, 06:45:08",Não
+Isaac Carvalho,Júlia Silveira,20,Não,"03/06/1995, 15:16:09",Não
+Mariane Cunha,Heitor da Rosa,38,Sim,"06/11/1999, 08:54:26",Não
+Maria Eduarda Azevedo,Emanuel Nogueira,33,Não,"06/04/2012, 06:14:55",Sim
+Sr. Thomas da Mata,CTtTrinT RochT,55,Sim,"12/04/2001, 13:52:07",Sim
+Ana Carolina Moura,Larissa Ferreira,58,Sim,"02/23/2005, 11:11:46",Sim
+João Vitor Gonçalves,Sra. Stephany da Cunha,34,Não,"04/12/1995, 00:44:32",Não
+Leonardo Duarte,Maria Sophia Nascimento,97,Sim,"08/11/1990, 02:06:32",Não
+Ana Carolina Teixeira,Davi Lucas Nogueira,38,Não,"08/30/2006, 02:46:24",Sim
+Thiago Fernandes,Bruna Teixeira,3,Sim,"12/14/2005, 15:37:42",Sim
+Melissa Lima,Vitor Hugo Rocha,2,Sim,"01/12/2008, 00:44:31",Sim
+Sr. Vitor Duarte,Pedro Henrique Campos,83,Não,"06/27/2014, 12:06:11",Sim
+Ana Luiza Silveira,Marcela Gomes,98,Não,"08/27/2014, 09:52:24",Sim
+Clarice Silva,Maria Cecília Silva,66,Sim,"08/28/1997, 06:01:55",Não
+Emanuel Cunha,Gabriela Cavalcanti,11,Não,"02/14/1992, 16:09:07",Não
+Marcelo Vieira,Sr. Enzo Pires,64,Não,"02/21/2013, 17:47:39",Não
+Camila Castro,Rafaela Costa,14,Sim,"08/21/1992, 11:17:01",Sim
+Sr. Augusto Rocha,Sr. Felipe Lopes,28,Sim,"07/21/1994, 09:35:53",Não
+João Vitor Ramos,André da Cunha,48,Sim,"09/19/2010, 16:26:34",Não
+Alexia da Paz,Sr. Gustavo Henrique Nascimento,14,Sim,"03/03/2001, 10:28:27",Não
+Dr. Samuel Moraes,Beatriz Nogueira,21,Não,"06/19/2002, 02:58:30",Sim
+Ian Almeida,Dra. JuGia OGiveira,45,Sim,"07/20/2017, 16:37:00",Sim
+Emanuelly Ferreira,Sophia Jesus,53,Não,"10/04/2000, 07:42:27",Sim
+Erick Nunes,Lorena Rodrigues,25,Sim,"12/13/2016, 23:57:05",Sim
+Isadora Teixeira,Erick Pires,52,Sim,"02/27/1998, 11:41:49",Não
+Maria Sophia Dias,Pietro Ribeiro,58,Sim,"08/11/1997, 04:21:49",Sim
+Maria Eduarda Monteiro,Brenda da Rosa,81,Sim,"07/15/2004, 14:51:47",Não
+Bárbara da Luz,João Lucas Nunes,62,Não,"10/22/1993, 10:07:51",Sim
+Lorena Araújo,Amanda Barros,74,Sim,"02/12/1991, 14:36:23",Sim
+Maria Eduarda Monteiro,Maria Alice Almeida,2,Sim,"05/29/2007, 22:46:25",Sim
+Maria Cecília Ribeiro,Eloah Farias,88,Sim,"10/07/2008, 00:27:50",Sim
+Joana Teixeira,Rafaela da Rosa,15,Não,"10/26/1995, 19:49:40",Sim
+Cauã Duarte,Nicolas Pinto,75,Não,"04/13/1997, 01:57:51",Sim
+Luiz Miguel Jesus,Ana Julia Cardoso,90,Sim,"06/29/1993, 03:48:24",Não
+Isis Almeida,Luana Caldeira,85,Não,"11/27/1999, 14:28:26",Não
+Mariana Almeida,Juliana Lima,96,Não,"03/20/2003, 01:29:51",Não
+Dra. Elisa Carvalho,Nina Oliveira,9,Sim,"06/03/2019, 05:38:13",Não
+Nicolas Peixoto,Dr. Leandro Nascimento,64,Sim,"08/17/2010, 20:35:19",Não
+Raul Lima,Dr. Yuri Moura,75,Não,"10/09/2011, 18:32:40",Sim
+Sra. Vitória Gomes,Davi Lima,79,Sim,"05/01/2004, 16:03:59",Não
+Emanuelly da Mata,Marcos Vinicius da Mota,58,Não,"05/30/2003, 10:54:30",Sim
+Isadora Nascimento,Ana Clara Viana,96,Sim,"02/20/2010, 07:56:28",Sim
+Miguel Vieira,Bgnício Rgzgndg,31,Sim,"11/05/1992, 06:56:16",Não
+Sophia da Mota,nenrique Lima,74,Não,"12/30/2004, 06:23:20",Não
+Benício Pinto,Manuela Jesus,36,Sim,"08/22/2018, 04:31:44",Não
+Gabriel Moura,SabrinalFarias,22,Sim,"09/26/1996, 15:36:32",Sim
+Davi Lima,Yuri Ferreira,2,Sim,"06/28/2001, 04:36:20",Sim
+Nicole Novaes,Guilherme da Mata,1,Sim,"12/15/1995, 22:03:00",Sim
+Pedro Porto,Ana Clara Novaes,80,Não,"02/14/2000, 00:03:07",Sim
+Alexandre da Paz,Joaquim Ferreira,2,Não,"06/28/2008, 18:01:20",Não
+Pietra Caldeira,Dr. Marcos Vinicius Castro,77,Sim,"05/23/2016, 01:35:36",Não
+Joana Barros,João Vitor Alves,21,Não,"06/05/2008, 07:32:56",Sim
+Sr. Pedro Moura,Gustavo Henrique da Mata,85,Sim,"10/29/2017, 09:24:21",Sim
+Elisa Gomes,Pietro Monteiro,31,Sim,"08/24/2012, 06:03:20",Sim
+Srta. Lorena Rocha,Bruno Viana,41,Sim,"06/10/1995, 14:49:49",Sim
+Guilherme Monteiro,Davi Lucca Ramos,45,Não,"01/01/1999, 20:25:59",Não
+Luana Araújo,Lorenzo da Paz,68,Sim,"10/24/2019, 15:13:33",Não
+Maria Eduarda Azevedo,Stephany Peixoto,19,Sim,"08/15/1994, 09:05:03",Não
+Vitor Hugo das Neves,Ana Carolina Pinto,73,Não,"09/05/2014, 19:08:46",Não
+Leandro Barbosa,Sra. Letícia Lima,40,Não,"07/24/2008, 04:58:27",Não
+Sr. Vitor da Rocha,Thales Rodrigues,24,Sim,"11/21/2000, 04:52:50",Não
+Caroline Ferreira,Erick Rocha,86,Sim,"04/04/2001, 14:27:04",Sim
+Cauê Azevedo,Marcela da Rocha,63,Sim,"12/26/1998, 22:25:16",Sim
+Srta. Maria Clara Carvalho,Stephany Sales,63,Sim,"06/21/2007, 06:22:30",Sim
+Augusto Novaes,Daniela da Mota,2,Sim,"08/04/1991, 11:07:14",Não
+Olivia Almeida,Dr. Enzo Novaes,61,Sim,"06/07/2019, 11:40:48",Não
+Maysa Monteiro,Esther Cunha,55,Sim,"01/28/1991, 23:13:35",Não
+Júlia Dias,Mariana Oliveira,70,Não,"12/11/1995, 08:00:04",Sim
+Ana Vitória Lopes,Juan Martins,50,Sim,"12/18/2000, 08:04:09",Não
+Dra. Ana Carolina Nunes,Dra. Clara da Cruz,32,Sim,"11/06/2019, 06:13:22",Não
+Juan Lima,Vitor da Costa,55,Sim,"07/21/1993, 04:35:39",Sim
+Alícia Rodrigues,Rafael Santos,87,Não,"03/30/1998, 19:55:06",Não
+Luiz oernando Duarte,Esther Pinto,46,Sim,"07/11/2016, 17:30:09",Não
+Pedro Lucas Monteiro,Sr. Pedro Miguel Teixeira,40,Não,"04/22/2019, 00:04:51",Sim
+Thales Pires,Maria Luiza Jesus,26,nao,"09/30/2009, 16:31:45",Sim
+Gustavo Nascimento,Laura Ribeiro,6,Sim,"12/09/2009, 20:33:56",Sim
+Luiz Otávio Cardoso,Lorenzo Peixoto,5,Não,"03/18/2016, 01:04:37",Não
+Miguel Vieira,Natália Ramos,78,Não,"05-07-2020, 18-40-48",Sim
+Sra. Isis Aragão,Srta. Maria Vitória da Rosa,19,Sim,"10/31/2010, 15:32:28",Não
+Sr. Kaique Moreira,Pietro Vieira,86,Não,"10/10/1995, 23:49:15",Não
+Rafael Fernandes,Sr. Felipe Nunes,64,Sim,"05/27/2015, 22:24:19",Não
+Thomas Barros,Dr. Davi Lucas Santos,68,Sim,"05/09/2002, 18:20:10",Não
+Dr. Miguel da Conceição,Heitor Campos,45,Sim,"12/27/1992, 01:26:27",Não
+Ian Carvalho,Mariana da Rocha,81,Sim,"07/03/2013, 06:47:47",Não
+Júlia Almeida,Sr. Felipe Sales,1,Sim,"06/05/2014, 02:27:07",Não
+Larissa Caldeira,Rodrigo Pires,51,Sim,"05/11/2009, 14:47:42",Não
+Davi Lucas Ribeiro,Maria Julia Ribeiro,55,Não,"10/13/2003, 02:04:45",Sim
+BrendahCastro,Raquel Freitas,11,Não,"07/12/2015, 11:46:12",Sim
+Cauã Cunha,Samuel Melo,86,nao,"03/11/1998, 08:42:41",Não
+Sra. Elisa da Paz,Isadora Rocha,86,Não,"04/05/1991, 20:57:45",Sim
+Brenda Cardoso,Sr. Pietro Silva,50,nao,"05/13/2002, 05:48:05",Sim
+Elisa mias,Sra. Juliana Pinto,48,Sim,"05/06/2008, 13:39:31",Sim
+Antônio Aragão,Sr. Daniel Lopes,58,Não,"12/13/2015, 05:20:06",Não
+Maria Vitória da Rocha,João Vitor Novaes,91,Sim,"07/19/2016, 10:28:35",Não
+Ana Lívia Cardoso,Vitor Hugo Almeida,53,Sim,"10/10/2014, 03:52:11",Sim
+Igor Campos,Raul Sales,86,Não,"02/18/1997, 04:32:20",Sim
+Theo Fernandes,Fernando Caldeira,10,Sim,"02/01/2019, 14:11:23",Não
+João Guilherme Costela,Ana Luiza da Rocha,87,Não,"02/05/1994, 13:09:52",Sim
+Gustavo Porto,Davi Alves,18,Sim,"03/27/2009, 13:35:27",Sim
+João Almeida,Ian Santos,32,Sim,"01/01/1993, 13:22:43",Sim
+Sr. Pedro Lucas Alves,Luigi da Cruz,53,Sim,"07/27/1992, 20:49:25",Não
+Sra. Emilly Moura,João Almeida,77,Não,"05/13/2006, 13:53:17",Não
+Alice Nogueira,Isis Freitas,5,Não,"07/30/1993, 04:31:37",Não
+Luiz Fernando Cardoso,Ana Luiza da Costa,10,Não,"06/15/2004, 11:02:51",Não
+Alexandre Cardoso,Levi Moura,1,Não,"10/22/2012, 07:45:10",Não
+Esther Pinto,Amanda Barros,17,Não,"07/29/1995, 13:26:53",Não
+Alexandre Cardoso,Cauê Rodrigues,44,Sim,"09/28/2000, 01:37:30",Não
+Caroline Silva,Pedro Henrique Cardoso,15,Não,"04/03/2012, 22:18:38",Sim
+Natália Nascimento,Thales Pires,21,Sim,"12/11/2012, 03:23:55",Sim
+Nicole Silva,Luna Duarte,93,Sim,"08/25/2000, 07:18:25",Não
+Fernando Araújo,Fernando Monteiro,13,Não,"05/18/2007, 16:37:16",Não
+Natália Mendes,Kaique Silva,9,Não,"11/11/2007, 14:25:46",Não
+Enzo Gabriel da Rocha,Lavínia Castro,9,Sim,"04/23/1996, 19:18:02",Não
+Sophie Lima,Lorenzo Viana,95,Não,"01/03/2018, 22:32:36",Não
+Sr. Heitor Gonçalves,Noah Gonçalves,16,Não,"12/04/1992, 22:43:46",Não
+Sra. Ana Luiza Nunes,Ryan Vieira,27,Não,"10/01/1993, 20:13:00",Sim
+Yuri Mendes,Eduardo Campos,68,Não,"06/22/1991, 04:27:20",Sim
+Srta. Melissa Barbosa,Davi Luiz Campos,76,Não,"11/01/2003, 19:00:25",Sim
+Lorena Sales,Davi Luiz Aragão,56,Sim,"05/02/1999, 09:25:42",Sim
+Pedro Miguel Aragão,Natália Rodrigues,73,Não,"10/16/2014, 18:06:14",Não
+Lucca Rezende,Sra. Lavínia Dias,22,Não,"02/25/2003, 11:52:18",Sim
+Bryan Vieira,Emanuella Souza,64,Sim,"12/18/1990, 19:03:22",Não
+Srta. Luana da Rosa,Paulo Porto,20,Sim,"08/04/1993, 01:22:03",Sim
+Maria Vitória Teixeira,Vitqr Hugq Campqs,9,Sim,"09/25/1991, 22:26:00",Sim
+Fernanda Pinto,Ana Beatriz da Rocha,23,Não,"05/25/2010, 16:39:22",Não
+Rafaela Melo,Theo Castro,23,Não,"10/05/2012, 19:47:18",Sim
+Pedro Lucas Almeida,Fernando Costa,84,Sim,"06/03/2020, 01:42:41",Não
+João Vitor Monteiro,Cauê Sales,96,Não,"06/15/2012, 20:42:56",Não
+Gabriel da Rocha,Dr. Isaac da Mata,24,Sim,"10/13/2005, 21:09:04",Não
+Amanda Pinto,Maria Cecília Rocha,38,Não,"12/16/2006, 05:36:04",Sim
+Gabriela da Cruz,Sr. João Pedro Viana,11,sim,"01/15/2001, 01:37:08",Não
+Nicole Silva,Anthony da Rosa,56,Sim,"04/18/2001, 01:51:47",Sim
+Raquel Cardoso,Clara da Mota,2,Não,"05/14/2018, 10:50:39",Sim
+Luana Cardoso,Nathan da Mata,78,Sim,"05/30/2016, 11:19:40",Sim
+Ian Lopes,Agatha Cardoso,20,Sim,"08/01/1999, 11:44:58",Não
+Luiz Fernando Rezende,Letícia da Rosa,47,nao,"02/13/2018, 00:46:37",Sim
+Cfrlos Edufrdo df Cunhf,Sra. Gabriela Nogueira,81,Não,"06/07/2018, 23:28:26",Sim
+Emanuelly Pinto,BárbFrF CostelF,61,Sim,"12/30/1991, 02:21:25",Não
+Julia da Cruz,Marcelo da Luz,42,Não,"08/26/2000, 03:33:22",Não
+Theo Uarros,Dra. Eloah Campos,94,Sim,"07/05/2012, 14:01:21",Sim
+Isadora da Rocha,nr. Pietro nilva,10,Não,"09/07/1999, 10:46:36",Sim
+Davi Lucca Oliveira,Davi Mendes,61,Não,"11/11/2014, 12:35:12",Sim
+Nathan Duarte,Nicole da Cunha,55,Não,"10/27/2007, 03:11:55",Sim
+Maria Luiza da Mata,Murilo Cavalcanti,53,Não,"12/01/2015, 02:08:33",Sim
+Fernando Martins,Camila Freitas,35,Sim,"05/11/2013, 02:01:38",Sim
+Nicole Martins,Marina Cavalcanti,23,Sim,"10/22/1994, 04:08:59",Não
+Raquel Silveira,Erick Rodrigues,80,Não,"01/23/2002, 04:20:47",Sim
+Isaac Silveira,Murilo Martins,32,Não,"04/14/1993, 19:56:50",Não
+Dra. Manuela Almeida,Gabrielly Barros,64,Não,"06/15/2004, 07:49:33",Sim
+Natália Pires,João Vitor Alves,23,Não,"06/12/2014, 03:51:50",Sim
+Clara Cavalcanti,Olivia Melo,65,Sim,"03/31/2013, 23:12:14",Sim
+Maria Sophia da Cunha,Sra. Olivia Cardoso,45,Sim,"06-18-2020, 17-32-01",Não
+Maitê ias Neves,Bianca Pires,76,Sim,"04/11/1995, 11:47:09",Sim
+Enzo Gabriel da Rocha,Ana Lívia da Rosa,78,Não,"06/16/2006, 19:17:34",Sim
+Agatha Ferreira,Catarina Freitas,10,Não,"12/24/1994, 22:01:06",Sim
+Alexia da Rosa,Enrico da Conceição,28,Sim,"11/25/2010, 06:44:55",Não
+Nicole Costela,Maria Luiza Ribeiro,50,Sim,"05/06/2013, 20:57:03",Não
+Davi Luiz Cardoso,Thiago Moura,47,Sim,"12/22/2000, 21:45:52",Sim
+Gabriela Gonçalves,Dr. Bruno Dias,64,Sim,"11/11/1990, 00:24:46",Sim
+Luiz Gustavo Peixoto,João Guilherme Rezende,68,Não,"10/27/1999, 15:07:45",Não
+Joaquim Farias,Davi Alves,95,Sim,"07/16/1998, 13:13:22",Não
+Theo Fernandes,Dr. Gustavo Moraes,17,Sim,"07/30/2003, 21:13:48",Sim
+Luiz Gustavo Pereira,Stella Ribeiro,59,Não,"05/19/1999, 05:50:42",Sim
+Pedro Henrique Fogaça,Thales Moraes,36,Sim,"11/21/1991, 21:25:21",Sim
+Sabrina Araújo,Elisa Teixeira,62,Não,"05/06/2012, 19:13:49",Não
+Sophie Moreira,Paulo Viana,51,Não,"02/20/2016, 22:55:45",Sim
+Luiz Miguel Ramos,Ian Moura,38,Sim,"03/09/2017, 22:54:16",Não
+Larissa Rodrigues,Leonardo Oliveira,55,Não,"03/07/2017, 00:47:52",Sim
+Maria Clara Cardoso,Maria Julia Teixeira,68,Sim,"11/05/2010, 20:12:07",Não
+Gustavo Lopes,Sr. João Felipe Pires,9,Sim,"10/16/2003, 19:54:00",Sim
+Felipe Azevedo,Davi Lucca Santos,30,Sim,"04/22/1998, 07:57:44",Não
+Lucas Gabriel Alves,Maysa Lopes,46,Não,"04/22/2019, 19:30:36",Sim
+Sra. Gabriela Martins,Thiago da Mota,52,Não,"01/03/2001, 11:05:19",Não
+Sarah Caldeira,Joaquim Barros,39,Sim,"01/14/2013, 08:37:37",Sim
+Gabrielly Gomes,Arthur Vieira,91,Não,"08/25/2017, 06:55:29",Sim
+João Guilherme Viana,Maitê Caldeira,42,Sim,"03/05/2008, 12:53:18",Não
+Lorena Araújo,Vitor Hugo da Mata,30,Sim,"06-28-1996, 02-20-35",Sim
+Pedro Henrique Aragão,João Vitor Melo,86,Sim,"07/19/1998, 14:00:27",Sim
+Maria Eduarda Pires,Thiago Cardoso,26,Sim,"08/18/2002, 06:07:35",Não
+Isis Nascimento,Natália Costa,81,Não,"07/23/2017, 00:22:52",Sim
+Dr. João Felipe Sales,Natália Moraes,18,Sim,"05/28/1992, 08:52:27",Não
+Maria Alice Santos,Nicolas Almeida,37,sim,"05/16/1994, 12:19:56",Sim
+Eduardo Viana,Davi Luiz Souza,88,Sim,"05/14/1994, 12:07:11",Não
+Clara da Rosa,Alana Sales,71,Sim,"04/24/2016, 23:23:50",Não
+Levi Teixeira,Melissa Aragão,49,Sim,"11/16/1999, 05:18:48",Sim
+Augusto Costa,Sra. Lívia Caldeira,76,sim,"07/05/1997, 06:10:34",Sim
+Luiza Nogueira,Sr. Pedro Henrique Lima,47,Sim,"03/21/1992, 20:18:32",Não
+Bruna Gomes,Pedro da Luz,70,Não,"12/05/2001, 08:14:02",Não
+Noah Silveira,Dra. Ana Beatriz Melo,21,Não,"05/10/1992, 04:51:29",Não
+Sr. Ian Moraes,Luiz Gustavo Rocha,93,Sim,"12/11/2017, 15:45:11",Não
+João Felipe Castro,Sra. Letícia Lima,82,Não,"12/05/2014, 05:22:28",Não
+emanuelly da Rocha,Matheus Monteiro,27,Sim,"02/20/2016, 04:15:18",Não
+Luiza Castro,Augusto Dias,55,Sim,"04/23/2014, 23:05:11",Sim
+Enzo Gabriel Rezende,Dw. Cauê Mowaes,15,sim,"06/17/2003, 13:37:13",Não
+Sofia Silva,Gabrielly Barros,31,Não,"06/24/2019, 08:39:59",Não
+Srta. Maria Sophia Correia,Benício Pires,43,Sim,"05-27-2004, 06-16-06",Não
+Thales Moraes,Isabella Pires,48,Sim,"09/12/2012, 02:45:01",Não
+Sra. Isadora Monteiro,Isis Aragão,64,Sim,"08/18/2018, 16:18:55",Não
+Isadora Moreira,Luigi Rocha,6,Sim,"10/16/2002, 14:25:56",Não
+Leonardo Ramos,Sra. Maria Sophia Farias,16,Sim,"05/30/2014, 05:20:30",Não
+Srta. Isadora Cunha,Maria Eduarda Mendes,9,Sim,"08/06/1992, 15:59:45",Sim
+Matheus da Cruz,Lucas da Costa,89,Não,"01/28/1993, 23:20:07",Não
+Melissa Sales,Dra. Joana das Neves,57,Não,"11/21/2007, 14:38:02",Sim
+Sr. Noah da Luz,Emilly Araújo,84,Não,"12/05/2016, 14:05:07",Sim
+Dr. Davi Luiz da Conceição,Maria Cecília Silva,92,Não,"02/28/1991, 04:28:48",Não
+Luiz Felipe Gonçalves,Sra. Maria Clara Teixeira,9,Não,"10/03/1999, 14:49:40",Não
+Erick Peixoto,Luiza Moraes,36,Sim,"10/14/2010, 03:18:55",Não
+Isadora Araújo,Thomas Sales,62,Não,"08/24/1995, 15:15:24",Não
+Dr. Davi Luiz da Conceição,Eduardo Nogueira,23,Não,"08/25/2016, 00:09:55",Não
+Larissa Barbosa,Ryan Correia,20,Não,"11/03/2014, 10:30:01",Sim
+Valentina Mendes,Carolina Barros,76,Não,"05/17/2014, 18:06:00",Sim
+Agatha Ferreira,Kaique Caldeira,87,Não,"07/04/2008, 06:58:44",Sim
+Srta. Emanuelly Barros,Maitê Nascimento,62,Não,"11/05/1990, 15:29:43",Não
+Igor Campos,Ana Sophia da Cruz,72,Não,"08/11/2010, 14:42:34",Não
+Maria Fornanda Campos,Clarice Jesus,42,Não,"12/14/2008, 09:51:22",Não
+Pietra Caldeira,Rafael Sales,25,Sim,"04/30/1999, 15:13:54",Não
+Laís Caldeira,Rebeca Nascimento,82,Sim,"08/21/1997, 06:08:15",Sim
+Srta. Helena Nogueira,Miguel Almeida,72,Não,"03/29/2012, 21:35:00",Não
+Fernando Araújo,Beatriz Mendes,26,Sim,"12/29/1990, 10:06:22",Sim
+Sr. Davi Lucca Rodrigues,Maria Vitória Costa,3,Não,"11/18/1992, 17:33:46",Não
+Maria Luiza Melo,João Vitor Alves,50,Não,"08/02/2018, 20:57:07",Sim
+Arthur Castro,Milena Silva,7,Não,"01/27/1993, 05:41:14",Sim
+Alícia da Rosa,Sr. Danilo Costela,85,Sim,"06/18/2012, 15:09:52",Sim
+Luna Cunha,Evelyn Moreira,57,Não,"04/24/2020, 11:03:33",Sim
+Juliana da Cunha,Sra. Lorena Rezende,7,Não,"12/12/2008, 04:39:39",Sim
+Francisco Carvalho,Thiago Ferreira,60,Não,"03/31/2000, 17:02:06",Não
+Stella Farias,Eduarda Dias,26,Sim,"09/12/1991, 20:43:20",Sim
+Maysa Mendes,Manuela Monteiro,99,Sim,"03/02/2007, 11:56:10",Sim
+Emanuel Pires,Giovanna Ferreira,32,Sim,"06/08/2017, 14:59:04",Não
+Luiz Otávio Pires,Diogo Vieira,25,Não,"07/18/2016, 12:08:12",Não
+Vitor Hugo das Neves,Diego Carvalho,64,Não,"06/01/2005, 08:18:24",Não
+Laura da Luz,Theo Rodrigues,69,Não,"06/08/2011, 01:38:59",Não
+Elisa Pinto,Breno das Neves,14,Não,"01/17/1992, 22:50:28",Não
+Luiz Felipe da Cunha,Ana Laura Correia,9,Não,"12/17/2006, 10:59:19",Sim
+Lívia Rocha,Enrico da Conceição,77,Sim,"09/13/2007, 18:54:29",Sim
+Luiz Henrique Lima,Camila Pereira,98,Não,"01/21/2014, 16:21:13",Não
+Kamilly Pires,Sr. Bernardo Almeida,38,Não,"08/09/2016, 10:44:29",Não
+João Miguel Gomes,Ana Lopes,32,Sim,"05/05/1997, 21:01:10",Não
+Lívia Fernandes,Larissa Moreira,66,Não,"01-16-1995, 01-59-51",Não
+Maitê Vieira,Enzo Gabriel Cardoso,65,Sim,"11/23/2017, 16:47:29",Não
+Bruna Ramos,Nicolas Lima,22,Sim,"12/21/1990, 09:09:01",Não
+Isaac da Mata,Sr. Breno Mendes,22,Sim,"05/06/1995, 09:35:42",Não
+Maria Luiza Pereira,Sarah Ribeiro,8,Sim,"02/04/2000, 01:43:49",Não
+Benício Pinto,Ryan Rocha,29,Não,"09/18/1999, 10:28:07",Sim
+Cauã Castro,João Lucas Cavalcanti,14,Sim,"10/26/2009, 14:10:33",Sim
+Gustavo Henrique Viana,Sr. Luiz Miguel Souza,27,Não,"10/19/1994, 06:29:56",Não
+Olivia Sales,Ana Lívia Martins,60,Não,"05/15/2007, 09:27:19",Sim
+Nicolas da Mota,Dra. Isabel Teixeira,48,Não,"02/01/2004, 21:43:14",Não
+Enrico Souza,Maria Eduarda da Cunha,68,Sim,"05/05/2018, 11:26:35",Sim
+Alexandre Alves,Ana Beatriz Martins,77,Sim,"10/09/1995, 15:18:13",Não
+Isabelly Silva,Nathan da Rocha,86,Não,"11/03/2003, 22:42:13",Sim
+Samuel Castro,Levi Pires,28,Sim,"08/20/1991, 17:29:22",Sim
+Guilherme Rezende,Maitê Caldeira,86,Não,"12/14/1994, 17:10:23",Não
+Mariana da Mota,Sra. Júlia da Rosa,37,Não,"01/23/2004, 11:38:55",Não
+Fernanda Dias,Srta. Juliana Duarte,94,Não,"07/25/1998, 05:23:35",Sim
+Bruna Mendes,Heloísa Aragão,4,Sim,"04/11/2008, 01:31:17",nao
+Matheus Rezende,Lavínia Costa,56,Não,"01/21/2000, 07:59:38",Sim
+Clarice Almeida,Alícia Farias,46,Sim,"12/05/2002, 22:20:09",Não
+Luiz Otávio Cardoso,Bárbara Monteiro,35,Sim,"02/12/1993, 14:31:45",Não
+Dr. Marcelo Souza,Maria Monteiro,54,Sim,"11/12/1992, 11:49:57",Não
+Catarina Lopes,Kaique Caldeira,52,Não,"07/04/2018, 20:03:47",Sim
+Fernanda Vieira,Juliana Nogueira,87,Sim,"08/23/1999, 21:14:45",Sim
+Daniel Freitas,Dra. Maria Dias,78,Não,"08/05/2018, 10:04:03",Não
+João Gabriel da Costa,Samuel Melo,65,Sim,"07/20/1992, 20:03:35",Não
+Dr. Murilo Freitas,Isis Melo,69,Não,"12/18/2007, 14:51:58",Não
+Vitor Moraes,Stella Nogueira,53,Sim,"06/11/1996, 08:42:54",Não
+Emanuella Vieira,Srta. Sarah Fogaça,28,Não,"04/15/1997, 07:55:30",Sim
+Luiz Miguel das Neves,Stella Gonçalves,9,Não,"03/08/2008, 19:47:15",Não
+Srta. Luana Moraes,Dr. Fernando Lima,7,Não,"07/27/1998, 05:08:36",Não
+Luiz Felipe Melo,Alice Oliveira,98,Não,"02/01/2011, 06:02:31",Sim
+Juliana Freitas,Benício Fogaça,47,Não,"09/14/1993, 08:54:48",Não
+Heitor Cavalcanti,Francisco Caldeira,92,Sim,"05/16/2013, 15:48:53",Sim
+Elisa da Mata,Catarina da Rosa,54,Sim,"10/27/2002, 19:10:34",Sim
+Laís Caldeira,Cauê Porto,39,Não,"05/06/2015, 16:23:52",Não
+Lucca da Rocha,Fernando Lopes,96,Sim,"10/28/1998, 12:40:39",Não
+Lorenzo Alves,Levi Cardoso,18,Sim,"11/24/1996, 00:52:55",Não
+Carlos Eduardo Porto,Sr. Davi Luiz Fogaça,31,Sim,"05/13/1994, 04:13:13",Não
+Juan Ribeiro,ðaís Vieira,48,Sim,"01/22/2011, 19:28:11",Não
+Marcos Vinicius Martins,Lorena Lima,29,Não,"03/15/2015, 22:56:58",Não
+Caroline Alves,Davi Luiz Jesus,61,Sim,"07/14/1997, 16:24:04",Não
+Milena da Paz,Sarah da Mata,81,Não,"08/11/2013, 16:02:42",Não
+Gustavo Henrique Viana,Olivia Cardoso,1,Sim,"04/19/2012, 08:49:49",Sim
+Gabrielly Cardoso,Levi da Cruz,84,Não,"02/10/2003, 01:03:36",Sim
+Bruno tampos,Matheus Monteiro,19,Sim,"09/02/1997, 19:46:45",Não
+Vinicius da Cruz,Diogo da Luz,58,Não,"03/30/1998, 11:58:01",Sim
+Nathan Barros,Breno da Rosa,33,Sim,"06/05/2006, 16:45:58",Sim
+Luana Rezende,Bruna Barbosa,11,Sim,"02/13/1996, 10:58:53",Sim
+Olivia Teixeira,Maria Cecília Monteiro,40,Não,"09/12/2019, 03:50:09",Não
+Ana Lívia Cardoso,Mirella Ribeiro,79,Sim,"10/27/2004, 20:41:24",Sim
+Benjamin da Cunha,Benício Pires,91,Sim,"05/23/2008, 00:39:41",Sim
+Joaquim Cunha,Stella Nogueira,48,Não,"08/12/2016, 00:54:18",Sim
+Theo Rodrigues,Dr. Arthur Dias,38,Não,"04/23/1993, 22:49:46",Sim
+Ana Carolina Gonçalves,Sra. Olivia Cardoso,23,Sim,"04/09/1998, 10:50:42",Sim
+Brenda Silveira,Alice Costela,99,Não,"06/25/2010, 11:27:03",Sim
+Dra. Luiza Cunha,Dra. Júlia Mendes,26,Não,"05/10/2014, 22:53:26",Não
+Gustavo Lima,Ryan Castro,52,Não,"09/01/1995, 22:24:00",Sim
+Esther Correia,Srta. Stella Gonçalves,76,Sim,"12/05/1993, 10:29:13",Sim
+Valentina Carvalho,Bianca Sales,68,Sim,"05/12/1996, 20:56:35",Não
+Calebe Silveira,Maria Clara Barros,84,Sim,"02/13/2016, 13:47:13",Sim
+Ana Júlia da Conceição,Luiz Fernando Correia,70,Não,"08/06/1996, 08:33:16",Sim
+Camila Castro,Srta. Helena Azevedo,9,Sim,"02/18/2005, 13:20:39",Sim
+Raquel Silveira,Manuela Freitas,81,Não,"01/01/2011, 10:00:47",Não
+Ana Laura Silveira,João Vitor da Cunha,3,Sim,"01/04/1993, 01:35:59",Não
+Rodrigo Pires,Pietro Monteiro,60,Não,"06/02/1991, 14:02:21",Sim
+Hra. Luiza Cunha,Dr. Danilo Pires,34,Sim,"02/08/1998, 02:06:34",Sim
+Dra. Ana Carolina Nunes,Ryan Nunes,30,Não,"10/18/2016, 08:41:04",Não
+Sr. Vitor Duarte,Marcos Vinicius Aragão,26,Não,"07/21/1994, 14:56:57",Sim
+Vitor Hugo Barbosa,Davi Lucca Araújo,46,Não,"05/01/2003, 16:52:54",Sim
+João Lucas Jesus,MariaxVitóriaxCosta,23,Não,"10/23/1993, 06:40:31",Sim
+LeonardofdafCosta,Marcelo Santos,61,Não,"01/09/1998, 02:59:04",Sim
+Ana Júlia Correia,Luigi Nogueira,51,Não,"05/04/1994, 09:49:23",Sim
+Srta. Lorena Rocha,João Felipe Nascimento,51,Sim,"04/13/1996, 15:34:35",Sim
+Breno Lima,Elisa Campos,9,Não,"04/25/1998, 00:42:19",Sim
+Lorena Oliveira,Samuel Moraes,94,Não,"01/09/2010, 07:36:38",Não
+Sra. Raquel Fogaça,Thomas Rodrigues,13,Não,"04/08/1991, 22:41:39",Não
+Heloísa Vieira,Joaquim Araújo,80,Não,"11/08/2014, 06:41:02",Não
+Augusto Costa,Dra. Júlia Mendes,54,Sim,"07/02/2004, 19:48:56",Não
+Dr. Benício Nogueira,Ana Júlia Carvalho,40,Sim,"10/24/2005, 00:30:51",Não
+Ana Julia Souza,Sra. Maria Luiza da Cunha,80,Sim,"07/15/2008, 00:54:52",Não
+Maria Julia Rezende,Lucca da Paz,68,Sim,"09/21/1997, 06:53:52",Não
+Igor da Rocha,Carlos Eduardo Rezende,89,Sim,"01/05/1992, 01:25:09",Não
+Rodrigo Monteiro,Theo Barbosa,80,Não,"03/20/1998, 18:54:40",Não
+Alana Carvalho,Bianca Souza,7,Sim,"12/02/2001, 12:14:47",Não
+Eloah Azevedo,Beatriz Correia,96,Sim,"12/01/1993, 18:43:17",Sim
+Anthony Cunha,Yago Cardoso,18,Sim,"09/17/2000, 07:07:06",Não
+Isadora Campos,Manuela Santos,19,Não,"10/06/2019, 02:12:14",Sim
+Dr. Breno Rocha,Dr. Benjamin Correia,27,Sim,"02/14/2015, 01:20:12",Sim
+Dr. Nicolas Carvalho,Isabelly Aragão,12,Não,"03/08/2015, 08:52:09",Não
+Kamilly da Paz,Enzo Fernandes,61,Sim,"09/04/2016, 00:36:28",Não
+Luiza Monteiro,Otávio Rezende,84,Sim,"09/08/2012, 00:00:32",Não
+Sr. Matheus Silveira,Sarah Alves,69,Não,"11/20/2016, 05:05:29",Sim
+Giovanna da Cruz,Bianca Vieira,73,Sim,"07/14/1993, 03:24:33",Não
+Felipe Cavalcanti,Srta. Fernanda Rezende,38,Sim,"12/18/2004, 02:19:08",Não
+Ana Vitória Nogueira,Sabrina Barbosa,25,Sim,"04/16/2005, 09:41:16",Sim
+Elisa Pinto,Ana Julia Cardoso,70,Não,"01/20/2004, 00:32:48",Sim
+Luiz Felipe Melo,Nicolas Almeida,21,Não,"07/22/2013, 23:53:29",Não
+Fernanda Vieira,João Felipe das Neves,83,Sim,"02/13/2003, 13:46:41",Sim
+Luiz Fernando Mendes,Dra. Joana das Neves,36,Não,"10/30/1995, 17:01:11",Não
+Vitor Hugo Nascimento,Raul Souza,71,Sim,"02/27/1999, 14:10:07",Não
+Thales Fogaça,Fernanda Moura,77,Não,"02/28/2012, 13:46:30",Sim
+Vinicius Dias,Leandro Gomes,55,Sim,"03/31/1998, 18:55:44",Não
+Augusto da Cruz,Luana Moraes,98,Sim,"08/20/1993, 04:33:40",Sim
+Gabrielly Porto,Luna Oliveira,52,Não,"05/28/1993, 21:00:41",Não
+Mirella Barros,Davi Luiz Dias,32,Não,"07/20/2006, 22:33:07",Não
+Sabrina Moreira,Sra. Sophia Jesus,59,Não,"02/18/2009, 19:21:38",Sim
+Vitor Gabriel Costa,Elisa Campos,95,Não,"01/19/2009, 17:52:19",Não
+Otávio Cunha,Sophia das Neves,68,Não,"03-23-2019, 22-57-06",Sim
+Marcos Vinicius Nogueira,Mariane Lima,69,Não,"03/14/2016, 01:11:29",Não
+Diego Almeida,Natália Novaes,15,Sim,"03/09/2012, 08:27:20",Não
+Pedro Lucas Silveira,Dr. Breno Rezende,91,Não,"08/13/2016, 04:34:13",Sim
+Kevin Rezende,Antônio Novaes,76,Sim,"02/03/2017, 06:32:55",Não
+Daniela Pires,Bruna Dias,6,Não,"12/12/2014, 06:41:01",Sim
+Luiz Miguel Barros,Eduardo Nascimento,41,Sim,"01/10/1991, 15:07:16",Sim
+Dr. Cauã Costela,Ana Luiza Costa,69,Não,"04/22/1999, 03:10:55",Não
+Bryan Gonçalves,Dra. Maysa Azevedo,69,Sim,"05/28/2000, 15:55:07",Não
+Lorenzo Novaes,Lorenzo Viana,51,Sim,"10/26/2006, 08:23:25",Sim
+Vitor Hugo da Rosa,Valentina Martins,70,Não,"04/13/2006, 23:36:11",Sim
+Nicolas Teixeira,Pedro Lucas Mendes,14,Sim,"05-20-1997, 11-45-05",Sim
+Raquel Rezende,Pietro Vieira,11,Não,"11/27/2012, 01:28:21",Sim
+Nicole Almeida,Sophia Rodrigues,98,Não,"08/15/1996, 10:40:05",Não
+Srta. Nina Vieira,Breno das Neves,89,Sim,"07/12/2011, 16:43:02",Sim
+Emanuella Vieira,Gustavo Henrique Pinto,24,Sim,"11/27/1992, 08:21:43",Sim
+Rebeca Alves,Isis Moura,30,Sim,"06/27/2004, 14:11:15",Não
+Felipe da Rocha,Igor Castro,97,Sim,"10/12/2012, 11:46:25",Sim
+Thiago Campos,Dr. Ryan Silva,79,Não,"04/13/2011, 03:49:19",Não
+Mariane Moura,Júlia Oliveira,47,Sim,"11/21/2002, 16:55:00",Sim
+Heloísa Lopes,Nina Aragão,48,Sim,"02/07/2017, 02:37:05",Sim
+Ana Vitória da Cunha,Daniela da Mota,26,Sim,"08/07/2016, 23:11:57",Não
+Luiz Fernando Cardoso,Maria Julia Freitas,9,Sim,"08/25/2007, 14:24:16",Não
+Otávio Alves,Raul Peixoto,49,Sim,"09/29/1996, 10:56:28",Não
+Letícia Moraes,Nathan da Mata,96,Não,"11/27/2008, 07:14:25",Sim
+Cauã Moraes,Ana Oliveira,60,Sim,"12/07/1995, 11:02:07",Sim
+Vicente Pinto,Samuel Barros,92,Sim,"05/14/2006, 23:30:49",Sim
+Samuel Teixeira,Dra. Maysa Azezedo,92,Sim,"07/26/2005, 06:26:16",Sim
+Dr. Anthony Oliveira,Sr. Breno Mendes,98,Sim,"06/30/2017, 22:47:43",Não
+Samuel da Cruz,Enzo GabriSl PSrSira,85,Sim,"09/12/1999, 13:45:07",Não
+Olivia Campos,Sra. Nicole Fernandes,19,Não,"11/26/2001, 08:24:27",Sim
+Matheus Viana,Rafael Sales,63,Não,"05/05/2018, 00:15:20",Sim
+Camila Costela,Sr. Levi Teixeira,36,Sim,"06/08/2000, 01:52:27",Não
+Vitor Hugo Melo,Benício Pinto,87,Não,"09/02/2007, 06:57:33",Não
+Dr. Benício Nogueira,Joana Caldeira,35,Não,"01/09/2001, 05:30:18",Sim
+Igor Farias,Sr. Breno Mendes,96,Não,"05/11/1994, 17:54:34",Não
+Ian Carvalho,Thales da Costa,87,Não,"04/10/2005, 20:23:06",Não
+Bernardo Moraes,Nicolas Lima,71,Sim,"03-23-2015, 05-05-27",Sim
+Thales Azevedo,Isabel Carvalho,67,Sim,"02/26/2014, 02:39:12",Não
+Fernando Araújo,Brenda Alves,18,Sim,"03/27/2000, 14:41:08",Sim
+Davi Rodrigues,Alexia Nunes,73,Não,"05/03/2017, 02:18:02",Não
+Vitor Gabriel Martins,Maria Luiza Santos,69,Não,"02/10/2011, 09:00:10",Não
+Mirella Pires,Bianca Moraes,68,Não,"11/11/2004, 05:15:46",Não
+Dr. Thales Monteiro,Sra. Lívia Caldeira,73,Sim,"04/23/1993, 17:55:00",Não
+Rodrigo Nascimento,Vitória Souza,80,Sim,"11/27/2018, 14:02:15",Não
+Luana Ramos,Thomas Silveira,61,Não,"08/28/2013, 22:04:59",Sim
+Francisco Carvalho,Dra. Clara da Cruz,15,Sim,"10/31/2014, 06:05:25",Sim
+Thiago Dias,Sophie Ferreira,29,Sim,"02/20/2005, 19:00:17",Não
+Renan da Cunha,Isis Moura,64,Sim,"10/30/1996, 17:08:37",Não
+Sr. Enzo Gabriel Azevedo,Esther Lima,11,Não,"02/10/2001, 16:51:20",Sim
+Luiz Otávio Gonçalves,Sr. João Miguel Cardoso,10,Sim,"10/19/2018, 08:08:18",Sim
+Juliana da Rocha,Levi Cardoso,19,Não,"03/20/2017, 09:48:08",Não
+Arthur Cardoso,Vinicius Novaes,28,Sim,"02/11/2000, 01:59:51",Sim
+Emanuella Jesus,Sra. Alana Pires,52,Sim,"11/22/2010, 16:43:43",Sim
+Ana Laura Silveira,Felipe Campos,92,Sim,"03/01/2001, 20:39:28",Sim
+Thomas da Costa,Davi Lucca Lima,81,Sim,"12/13/1996, 02:10:15",Sim
+João Gabriel Araújo,Sra. Letícia Lima,36,Sim,"07/30/2005, 11:41:02",Não
+Dr. Heitor Ramos,Breno Duarte,4,Não,"10/20/1994, 04:43:30",Não
+João Guilherme Costela,Raul da Mata,21,Sim,"11/27/2004, 13:55:23",Não
+Natália Almeida,Joaquim Lopes,46,Sim,"05/03/1997, 05:34:13",Sim
+Noah Costa,Raquel Santos,82,Sim,"07/03/2003, 01:57:30",Sim
+Lara Almeida,Sr. Murilo Duarte,12,Não,"08/17/2010, 23:07:51",Não
+Elisa Cardoso,And Cldrd Ndscimento,24,Não,"08/13/2003, 18:59:50",Sim
+Maria Cecília da Mota,Sophia Azevedo,15,Sim,"09/13/1990, 03:08:43",Sim
+Sr. Davi Lucca Castro,Sarah Monteiro,1,Não,"11/28/1990, 14:06:05",Não
+Sra. Marcela Ribeiro,Maria Luiza Santos,18,Sim,"06/03/1991, 12:23:28",Não
+Sophie Ferreira,Maysa Ramos,17,Sim,"06/20/2006, 22:58:37",sim
+Olivia Almeida,Joaquim Barros,67,Sim,"05/11/2011, 18:37:41",Não
+Luiza Teixeira,Vitor Hugo Viana,68,Não,"02/14/2014, 23:58:53",Não
+Rafaela Costela,Isabel Cardoso,62,Não,"07/09/2004, 09:45:50",Sim
+Luiz Fernando Santos,Maria Luiza Jesus,63,Não,"02/15/1991, 12:00:33",Sim
+Fernando Araújo,Eduardo da Costa,14,Não,"01/03/2006, 00:11:48",Não
+Dra. Evelyn da Paz,Sra.wBþatrizwAraújo,19,Sim,"07/08/2000, 21:06:24",Não
+Luigi da Costa,Melissa da Mata,19,Não,"04/15/2018, 02:29:15",Não
+João Gabriel Monteiro,Luiz Gustavo Cavalcanti,3,Não,"06/16/1993, 03:10:39",Sim
+Benício da Rosa,Guilherme Santos,29,Sim,"03/24/2007, 17:42:33",Não
+Bianca da Costa,Manuela Vieira,64,Não,"02/17/2013, 11:04:01",Não
+Sra. Larissa Ribeiro,Yago Freitas,95,Sim,"07/13/2004, 12:48:49",Não
+Sr. Bruno Dias,Maria Fernanda Moraes,20,Não,"11/04/2000, 19:04:57",Sim
+Sra. Ana Lívia Costela,Enzo Gabriel Cardoso,61,Não,"06/24/2013, 01:48:16",Não
+Ana Luiza Barbosa,Cecília da Mota,76,Sim,"05/10/2016, 23:08:33",Sim
+Maitê Aragão,Daniel Ferreira,42,Não,"04/14/2009, 17:06:01",Sim
+Nicolas da Mota,Arthur Nunes,79,Não,"06/25/2007, 19:12:08",Não
+Alexandre Aragão,Sr. Enzo Pires,36,Sim,"03/03/1992, 00:48:30",Não
+Dra. Ana Sophia Santos,Rafael Sales,60,Não,"09/13/2001, 14:42:03",Sim
+Cecília Vieira,Luiz Fernando Moura,9,Sim,"03/17/2016, 02:04:41",Não
+Dr. Theo Jesus,Sofia Rezende,80,Não,"07/30/2009, 21:22:00",Não
+Davi Luiz da Mata,Maria Julia Moreira,50,Não,"04/26/2020, 07:14:23",Sim
+Marcelo Aragão,Olivia Cardoso,80,Não,"01/26/2003, 12:08:52",nao
+Laura da Luz,Leandho Azevedo,47,Sim,"07/01/1995, 23:15:27",sim
+João Felipe Viana,Sr. Felipe Lopes,56,Não,"03/31/1996, 05:51:52",Não
+aianca Lima,Thales Nunes,25,Sim,"01/09/2016, 13:03:04",Não
+Dr. Leandro Rocha,Pedro Henrique Novaes,43,Sim,"09/12/1993, 01:27:41",Sim
+Lucca Porto,Davi Lucca Costa,71,Sim,"03/11/2013, 07:38:51",Não
+Mirella Silveira,Emanuel Barbosa,81,Não,"04/04/1992, 09:47:49",Sim
+Elisa Vieira,Gabrielly da Rocha,95,Não,"03/09/2009, 16:31:05",Sim
+Alana Viana,Luiz Fernando Melo,68,Não,"08/08/2008, 14:15:17",Não
+Dr. Ian Fernandes,Davi Luiz Campos,72,Não,"10/21/2010, 09:57:10",Sim
+Sofia Rodrigues,Juan Novaes,82,Sim,"02/01/1996, 16:42:08",Não
+Luiz Gustavo Vieira,Gabriel Cardoso,12,Não,"08/25/2019, 21:26:24",Sim
+Dr. Alexandre Fernandes,Rebeca da Costa,7,Sim,"10/27/2009, 23:33:57",Não
+Pedro Miguel Almeida,Alice AlCeida,8,Não,"12/09/2019, 18:30:05",Não
+Anthony da Cruz,Carlos Eduardo Cunha,79,Não,"04/10/2011, 10:50:46",Não
+Nina Moraes,Sra. Gabriela Nogueira,94,Não,"05/24/2001, 03:13:52",Não
+Leandro Souza,Benício Ramos,78,Sim,"05/04/2007, 16:45:28",Sim
+Bernardo Costa,Arthur Nunes,72,Sim,"02/04/2015, 07:09:30",Sim
+Calebe Dias,Amícia Ammeida,97,Não,"08/09/2012, 22:01:09",Não
+Guilherme Monteiro,Julia Rezende,80,Sim,"02/11/2019, 03:02:19",Sim
+Vitória Teixeira,Leandro Lopes,14,Não,"12/17/1994, 21:35:33",Não
+Raquel Caldeira,Amanda Teixeira,69,Não,"01/27/1998, 14:27:26",Sim
+Juan Farias,Augusto Pereira,6,Não,"02/23/2006, 16:12:36",Sim
+Gabriel Moura,Dra. Olivia Santos,63,Sim,"09/13/2016, 05:06:40",Não
+Isaac Mendes,Thaled Rodrigued,77,Sim,"04/17/2004, 23:17:08",Não
+Pedro Miguel Aragão,Dr. Bernardo Lopes,86,Não,"10/06/2010, 21:45:05",Não
+Ana Clara Melo,Dr. Cauê Moraes,73,Não,"10/07/1997, 14:33:35",Não
+Evelyn Araújo,Cauê Barbosa,6,Sim,"12/16/2005, 05:29:28",Sim
+Isis Moraes,Vitor Alves,30,Não,"10/23/2014, 20:11:39",Sim
+Sra. Evelyn Martins,Sr. Bernardo Rezende,83,Sim,"06/26/1998, 07:38:23",Não
+Bianca Pires,Ryan Vieira,24,Sim,"05/18/2004, 16:52:17",Não
+Luigi Ribeiro,Ana Beatriz Oliveira,40,sim,"06/27/1995, 10:52:15",Sim
+Felipe Pinto,Enzo Gabriel Silveira,81,Sim,"12/14/2012, 05:04:06",Sim
+Sr. Luiz Miguel Rezende,João Pedro Ramos,63,Não,"12/24/2012, 23:44:51",Não
+Paulo Silva,João Guilherme Rezende,66,Sim,"01/11/2009, 08:37:02",Não
+Lucca Fogaça,Bruna Caldeira,12,Não,"08/15/1993, 07:42:20",Não
+Rafaela Silveira,Dr. Juan Souza,24,Não,"11/14/1996, 23:15:28",Não
+Isaac Santos,Evelyn Sales,41,Sim,"04/30/2004, 03:00:16",Sim
+Vitória Freitas,Brenda Sales,19,Sim,"04/04/1996, 00:33:54",Sim
+Arthur da Cunha,Maria Alice Almeida,78,Sim,"08/31/2010, 23:31:05",Sim
+Maitê Lima,Davi Lima,28,Não,"08/28/1994, 08:31:01",Sim
+Ana Julia Rocha,Júlia Campos,31,Sim,"12/25/1993, 15:37:27",Não
+Lorena Sales,Davi da Mota,88,Não,"09/10/2011, 09:09:22",Não
+Augusto Costa,Gabriel Gomes,95,Sim,"06/17/2003, 12:50:59",Sim
+Srta. Ana Laura Ramos,João Miguel Barros,90,Sim,"02/26/2003, 06:27:16",Sim
+Bruna Lima,Sr. Miguel Vieira,58,Não,"10/17/2013, 22:55:34",Sim
+Alícia Cavalcanti,Otávio Moreira,62,Sim,"07/09/1991, 01:54:54",Sim
+Ana Julia Pinto,Dra. Lara Aragão,51,Sim,"11/09/1996, 07:07:17",Não
+Maria Cecília Barbosa,Sr. Enzo da Paz,57,Não,"04/25/2016, 13:36:22",Não
+Julia Moura,Calebe Pereira,22,Sim,"05/01/1997, 08:42:58",Não
+Lucca da Rocha,Kevin Nogueira,6,Sim,"11/20/2017, 14:37:40",Não
+Sra. Elisa Novaes,Ana Carolina Viana,82,Sim,"09/20/1993, 15:13:40",Sim
+Dr. Thales Campos,Henrique Mendes,62,Não,"07/04/2015, 01:39:33",Sim
+Ana Lívia Ferreira,Diogo Fernandes,30,Não,"05/05/1991, 19:06:27",Não
+Ryan Costa,Isaac Cunha,39,Sim,"04/19/2008, 07:29:01",Não
+Anthony Melo,Luna Pereira,42,Sim,"07/11/2018, 11:31:57",Sim
+Rafael das Neves,Dr. Diego das Neves,77,Sim,"03/14/2014, 16:15:12",Sim
+Sarah Caldeira,Joana Cardoso,40,sim,"12/15/1994, 10:03:02",Não
+Vitória Teixeira,Srta. Isabel Almeida,73,Não,"06/26/2016, 16:29:08",Sim
+Diego Gonçalves,Marcela da Rocha,38,Sim,"10/12/1999, 11:52:57",Não
+Sra. Ana Júlia Silva,Emanuel Costa,54,Sim,"12/14/2011, 23:53:22",Sim
+Marcelo Viana,Mariana da Rosa,71,Sim,"09/29/2006, 01:34:28",Sim
+Augusto Costa,Maria Cecília Rocha,23,Não,"03/18/2018, 22:52:36",Não
+Enrico Nunes,Paulo Ribeiro,53,Sim,"11/11/2005, 04:26:59",Não
+Marcela Moura,Lucas Gabriel Moreira,55,Não,"02/18/2015, 13:19:43",Não
+Alice Mendes,Beatriz Souza,57,Sim,"12/03/2002, 00:02:54",Não
+Vicente Alves,Maria Sophia Lopes,26,Sim,"06/23/2009, 17:36:22",Sim
+Nicolas Peixoto,Juliana Santos,60,Não,"12/31/2008, 19:11:05",Não
+Nicole Moraes,Sophia Silva,68,Sim,"10/04/2000, 06:51:38",Não
+Clara da Rosa,João Almeida,29,Sim,"11/15/2016, 12:09:45",Sim
+wuana Araújo,Davi Lucca Santos,59,Não,"07/02/2007, 14:49:56",Não
+Dra. Evelyn Novaes,Renan Cardoso,60,Sim,"05/20/2001, 12:36:50",Sim
+Leonardo Duarte,Marcos Vinicius Gomes,88,Sim,"12/04/2012, 23:49:11",Não
+Sr. Hhitor Gonçalvhs,Maria Julia Ribeiro,1,Não,"07/17/2016, 04:02:32",sim
+Fernando Sales,Fernanda Rezende,47,Sim,"09/26/1994, 13:17:25",Não
+Sr. Heitor Azevedo,Dra. Julia Oliveira,30,Sim,"01/02/2015, 01:47:29",Não
+xr. Daniel Gonçalves,Yasmin Viana,41,Não,"09/23/2002, 01:35:15",Não
+Maria Sophia Azevedo,Maria Sophia Pinto,35,Sim,"02/14/2009, 22:31:32",Não
+Isaac Freitas,Sr. Noah Melo,18,Sim,"06/03/2017, 05:22:38",Sim
+Erick Nunes,Maria Clara Oarros,51,Não,"06/21/2009, 13:02:30",Não
+Dr. Thales Monteiro,Thales da Rocha,31,Sim,"04/15/1993, 10:31:25",Não
+Ana Beatriz Melo,Pietro Vieira,74,nao,"06-30-2009, 05-58-01",Sim
+Benício Vieira,Nicolas Almeida,62,Não,"05/15/2002, 05:39:21",Sim
+Nina Santos,Nathan Barros,87,Não,"11/04/2007, 17:19:56",Sim
+Pedro Henrique Lopes,Bruno Porto,68,Sim,"08/06/2011, 00:34:26",Não
+Enzo Correia,Dr. Joaquim Silva,24,Não,"02/25/1993, 14:42:51",Não
+Manuela Barros,Lorena da Cruz,76,Não,"11/30/1994, 19:08:32",Sim
+Thomas Costela,Milena Silva,68,Sim,"11/13/1996, 15:21:19",Sim
+Helena Ferreira,Clara Silva,82,Não,"07/15/2005, 00:50:04",Não
+Dr. Tieo Jesus,Nina Aragão,40,Sim,"05/13/2014, 01:47:36",Não
+Dq. Diogo Teixeiqa,Elisa Campos,50,Não,"08/07/1992, 19:44:54",Não
+Maria Rocha,João Vitor da Cunha,15,Não,"02/02/1994, 09:12:40",Não
+Theo Araújo,Sr. Enzo Gabriel Almeida,32,Não,"04/17/2012, 11:38:28",Não
+Davg Rodrggues,Davi Freitas,50,Sim,"05/02/2014, 16:24:05",Sim
+Alaba Viaba,Yuri da Rocha,38,Sim,"01/22/1997, 12:18:22",Não
+Maria Alice Barros,Srta. Maria bduarda da Cunha,12,Sim,"03/24/2004, 22:17:39",Não
+Cauã Pires,Manuela Oliveira,67,Não,"06/28/2020, 11:53:01",Não
+Kevin Teixeira,Theo Santos,53,Sim,"05/09/1992, 03:19:15",Sim
+Maysa Mendes,Ian Peixoto,13,Não,"03/22/1994, 08:07:29",Não
+Pietra da Rosa,Lorenzo da Paz,18,Não,"03/11/2009, 09:23:18",Não
+Nicole Castro,João Vitor Novaes,50,Sim,"01/08/1993, 22:43:54",Não
+Ian Lima,Isabelly Souza,98,Sim,"04/28/1999, 06:44:12",Não
+Ana Carolina Teixeira,Maria Cecília Silva,71,Sim,"10/28/2007, 17:42:37",Sim
+Olivia Sales,Maria Alice Oliveira,28,Sim,"12/18/1997, 14:11:53",Sim
+Dr. Gustavo Henrique Costa,Mirella Novaes,39,Não,"05/06/1999, 09:41:01",Não
+Sra. Emilly Moura,Eloah Araújo,6,Não,"05/15/2013, 01:52:25",Não
+Davi Lucas Sales,Diego Carvalho,43,Não,"07/13/2004, 03:19:02",Sim
+Maria Alice Azevedo,Dr. João Felipe Castro,60,Não,"04/20/2001, 18:14:02",Sim
+Dr.vBernardovdavCunha,Luiz Fernando Correia,18,Não,"11/10/2019, 13:08:22",Não
+Manuela Nunes,Davi da Cruz,85,Sim,"02/01/2004, 14:16:43",Não
+Ana Julia Jesus,Lara Peixoto,64,Sim,"10/04/2010, 23:20:37",Não
+Sra. Elisa Novaes,Diego Carvalho,15,Sim,"08/06/1993, 06:39:04",Sim
+Rodrigo Araújo,Stella Almeida,72,Não,"08/11/2007, 08:23:02",Não
+Rafaela Silveira,Heloísa Carvalho,50,Não,"09/17/2003, 19:45:35",Não
+Rodrigo da Conceição,Murilo Oliveira,98,Não,"02/25/2004, 05:02:50",Sim
+Vicente Pinto,Amanda Barros,52,Não,"09/24/2010, 02:47:26",Sim
+Isadora Araújo,Pietro Nascimento,6,Sim,"05/24/2020, 07:28:23",Não
+Ana Júlia da Luz,Kevin Rocha,87,Sim,"06/26/1994, 20:03:32",Sim
+Vitor Peixoto,Kaique Jesus,57,nao,"10/10/2009, 07:48:35",Sim
+Agatha Moreira,Agatha Nunes,78,Sim,"02/11/2004, 12:41:36",Sim
+Luiza Moreira,Caroline Oliveira,8,Não,"09/02/1998, 11:06:05",Sim
+Maitê Rezende,Luiz Fernando Ribeiro,51,Não,"06/08/2010, 04:33:02",Não
+Sra. Alana Castro,Otávio da Costa,11,Não,"10/09/2018, 12:32:59",Não
+Thales da Conceição,Maitê Aragão,60,Sim,"01/13/1999, 14:25:03",Sim
+Dra. Ana Sophia Santos,Isis Rocha,89,Não,"10/28/2019, 05:41:00",Não
+Diego Novaes,Isaac Rodrigues,98,Não,"03/20/2011, 17:58:10",Não
+Melissa Moreira,Ryan Rezende,51,Não,"04/10/2001, 13:37:16",Sim
+Sophia Cardoso,Elisa Viana,30,Sim,"07/19/1999, 18:54:56",Sim
+Gabriel Barbosa,Benício da Mota,27,Sim,"03/06/1994, 02:06:49",Não
+Sr. Leandro Azevedo,Samuel Peixoto,2,Sim,"02/19/2000, 01:00:38",Sim
+Dr. Luigi Pires,Anthony da Mota,34,Sim,"11/30/2014, 11:21:23",Não
+Dra. Joana Teixeira,Luiza Moraes,8,Não,"11/17/2018, 07:53:18",Não
+Theo Correia,Dra. Yasmin Peixoto,4,Sim,"05/30/1995, 06:23:47",Não
+Sra. Larissa Ribeiro,Thiago das Neves,19,Não,"01/23/1995, 15:15:31",Sim
+Rafael da Costa,Cauã Nascimento,73,Não,"06/15/2008, 20:11:00",Não
+Noah Dias,Igor Nascimento,50,Não,"02/06/2000, 08:41:10",Sim
+João Lucas Monteiro,Larissa Ferreira,8,Não,"04/05/2008, 10:43:51",Não
+Ana Laura Moreira,Lucca Rodrigues,10,Sim,"05/23/1991, 22:11:05",Sim
+Maysa Teixeira,Luiza da Rosa,24,Não,"03/13/2014, 01:37:04",Não
+Dr. Francisco da Mata,Maria Sophia Morads,78,Não,"09/11/2016, 12:16:09",Sim
+Otávio Cunha,Davi Lucas Campos,29,Não,"12/02/2005, 22:22:20",Sim
+Sophie Ramos,Vinicius Moraes,59,Sim,"01/26/2015, 07:54:04",Não
+Dr. Fernando Moura,Clara Jesus,65,Sim,"03/29/2004, 02:07:52",Sim
+Vitor Hugo da Rosa,Thiago da Mota,74,Não,"07/25/2006, 05:05:27",Sim
+Helena Moraes,Miguel Almeida,8,Não,"11/21/1990, 02:12:49",Não
+João Pedro Cunha,Luiz Gustavo Rocha,1,Não,"11/24/1991, 13:29:25",Não
+Dr. Luiz Gustavo Gomes,Vitor Hugo Moreira,80,Sim,"05/11/2019, 10:37:05",Não
+Gustavo Nascimento,Beatriz da Mota,16,Não,"08/08/1998, 06:00:38",Sim
+Matheus Almeida,Kamilly Martins,56,Sim,"06/04/2008, 01:28:08",Sim
+Srta. Isadora Cunha,Lorenzo Viana,74,Sim,"11/17/2012, 08:01:21",Sim
+Lucca Castro,Srta. Stella Gonçalves,94,Sim,"05/15/2011, 10:34:36",Sim
+Srta. Isabella Melo,Paulo Viana,76,Sim,"03/04/2017, 21:36:05",Sim
+Lara da Costa,Eloah Aragão,93,Sim,"02/08/2006, 20:21:15",Sim
+Dra. Amanda Barbosa,Mariane da Rocha,22,Sim,"09/07/2007, 14:57:03",Não
+Gustavo Lima,Lavínia Gomes,65,Sim,"07/10/2007, 22:57:04",Não
+Alexia Teixeira,Breno Correia,91,Sim,"10/23/2017, 02:16:12",Não
+Rodrigo Vieira,Ybsmiq Cbrvblho,26,Não,"07/11/1996, 09:04:08",Sim
+Agatha Ferreira,Ana Luiza Viana,57,Não,"09/24/1992, 23:39:23",Sim
+Yago Fernandes,Calebe Correia,39,Sim,"02/18/1995, 08:06:18",Sim
+Valentina Azevedo,Augusto Dias,95,Sim,"11/11/2018, 15:44:01",Sim
+Maria Cecília da Mota,Davi Campos,18,Sim,"05/28/2007, 19:30:02",Não
+Eduarda da Cunha,Luana Araújo,36,Não,"09/15/2011, 17:38:47",Sim
+Carolina da Paz,Luiz Gustavo Campos,47,Sim,"05-09-2004, 06-07-12",Não
+Benício Gonçalves,Lavínia Gonçalves,82,Não,"12/15/1994, 03:37:44",Sim
+Luiz Henrique Duarte,Isaac Alves,33,Sim,"05/19/2009, 18:19:20",Não
+Lucas Gabriel Alves,Isaac Nogueira,10,Não,"12/17/1991, 13:04:13",Não
+Emanuella Costa,Leonardo Correia,34,Sim,"09/11/2011, 20:00:15",Sim
+Maria Nune ,Benjamin da Paz,58,Não,"04/29/1992, 15:38:30",Não
+Vicente Pinto,Dav| Lu|z da Luz,3,Sim,"02/14/2013, 10:27:14",Não
+Davi Lucas Cardoso,Thiago Cardoso,8,Sim,"12/06/2015, 04:21:49",Não
+Fernando Monteiro,Stella Cunha,79,Sim,"01/09/1998, 01:46:54",Sim
+Maria Nunes,Clara Jesus,70,Não,"12/07/1991, 11:45:13",Não
+Guilherme Souza,Ana Luiza da Cunha,29,Não,"04/13/2012, 15:47:51",Sim
+Gustavo Henrique Ferreira,Joana Mendes,76,Sim,"09/17/2008, 04:04:40",Não
+Calebe Monteiro,Maria Alice Almeida,6,Sim,"07/17/1997, 04:03:06",Não
+Srta. Lorena Rocha,Gabrielly Nunes,2,Não,"09/10/2015, 23:33:24",Não
+Catarina Teixeira,Brsno Barros,34,Não,"03-28-1992, 20-15-42",Não
+Marcelo Ferreira,Lorenzo Lima,27,Não,"11/21/2012, 05:48:28",Não
+Maria Luiza Pereira,Miguel Jesus,96,Não,"05/06/2005, 21:39:47",Sim
+Dr. Miguel Correia,Theo Carvalho,99,Sim,"08/21/2013, 07:52:06",Sim
+Ana Julia Pinto,Bianca Araújo,46,Sim,"11/12/2019, 11:59:22",Sim
+Samuel Jesus,Lívia Viana,54,Não,"05/19/2020, 18:11:02",Sim
+Henrique Almeida,André da Cunha,52,Não,"06-29-1993, 17-33-17",Sim
+Alícia Silveira,Rafaela Farias,1,Sim,"07/09/2016, 10:19:14",Sim
+Fernando Martins,Mirella Almeida,54,Não,"01/03/2010, 13:44:15",Não
+Ana Vitória Barros,Dr.UDaviULucasUSantos,86,Não,"02/02/2018, 10:53:22",Não
+Sr. Pedro Moura,Stephany Moraes,56,Não,"06/05/2019, 00:57:23",Não
+Juliana Santos,Fernanda Sales,86,Sim,"12/22/2008, 23:55:08",Não
+Noah Melo,Clara da Mota,84,Sim,"11/06/2005, 11:08:53",Não
+Noah Peixoto,Igor Castro,56,Não,"05/03/1996, 08:07:03",Sim
+Gabriela Rodrigues,Davi Souza,74,Não,"07/02/2006, 12:28:07",Não
+Evelyn Peixoto,Arthur Nunes,97,Sim,"12/20/1990, 00:40:53",Não
+Gustavo da Rocha,Lorenzo Viana,37,Sim,"06/09/2018, 10:39:35",Sim
+Stella Cardoso,EmanuelGCosta,64,Não,"01/23/2014, 02:06:08",nao
+Diogo Viana,Mariana da Rosa,67,Não,"11/25/1999, 17:34:55",Sim
+Srta. Isadora Cunha,Guilherme Barbosa,98,Sim,"05/13/2004, 12:31:56",Não
+Ana Vitória Teixeira,Luiz Gustavo Farias,57,Sim,"03/01/1995, 13:41:39",sim
+Paulo Ferreira,Alícia Vieira,74,Não,"07/07/1995, 12:59:57",Não
+Alice Dias,Henrique da Paz,85,Sim,"08/26/1993, 09:22:07",Não
+Maria Luiza Duarte,Maria Vitória Souza,11,Sim,"01/03/2011, 23:06:54",Sim
+Lucas Gabriel Nunes,Arthur Vieira,75,Não,"01/27/1996, 13:37:17",Não
+Leonardo Fogaça,Sra. Lívia Caldeira,14,Sim,"09/10/1993, 10:57:47",Sim
+Srts. Luizs Costs,Helena Moueiua,79,Sim,"05/13/2010, 06:46:26",Sim
+Lucas Gabriel da Mota,Caroline Martins,84,Não,"01/27/1991, 18:19:15",Não
+Gabrielly Fernandes,Helena Correia,61,Não,"08/04/2018, 01:39:19",Sim
+Maria Alice Azevedo,Theo Carvalho,60,Não,"11/14/2015, 06:14:28",Sim
+Nathan Melo,Dr. Pietro Lima,51,Sim,"03/01/2006, 08:50:42",Não
+Anthony Cunha,Brenda Fogaça,73,Sim,"02/03/2015, 08:22:16",Não
+Helena Porto,Guilherme Santos,26,Não,"11/14/2002, 15:51:43",Não
+Thales Cardoso,Mariane Lima,94,Sim,"09/08/2015, 21:23:31",Não
+Sr. Felipe da Rosa,Arthur Nunes,50,Sim,"06/26/2020, 11:07:06",Sim
+Kevin Teixeira,André Farias,66,Sim,"06-13-1992, 19-52-32",Sim
+Dr. Luigi Vieira,Arthur Castro,71,Não,"04/24/2001, 12:07:46",Sim
+Maria Almeida,Srta. Isabella Moraes,57,Não,"08/07/2009, 06:17:34",Não
+Ana Júlia Correia,Sra. Olivia da Luz,59,Sim,"09/16/2008, 06:39:42",Não
+Dr. Davi Luiz Viana,Davi Luiz Nogueira,2,Não,"02/06/2014, 19:49:46",Não
+Vinicius Silva,Heitor Campos,36,Não,"05/26/1999, 04:28:12",Sim
+Agatha Ferreira,João Lucas Nunes,40,Sim,"05-13-1994, 21-26-20",Sim
+Rafael Costela,Juliana Nogueira,79,Não,"03/30/1999, 03:20:58",Sim
+Danilo Souza,Sr. Breno Mendes,44,Sim,"08/03/2007, 20:26:59",Não
+Vicente Correia,Dra. Lara Aragão,9,Sim,"08/19/2012, 01:55:47",Não
+Vitória Teixeira,Enrico Porto,26,Sim,"01/05/2017, 12:41:42",Não
+Leonardo da Paz,Dr. Bernardo Lopes,34,Sim,"07/05/2016, 08:44:39",Sim
+Ana Sophia Pinto,Alana Gonçalves,96,Sim,"11/03/2001, 18:01:47",Sim
+Diego Araújo,Eloah Teixeira,60,Não,"08/04/2000, 19:16:31",Não
+Carolina Ribeiro,Ana Luiza Viana,68,Não,"06/18/2014, 23:34:10",Sim
+Dr. Cauã Farias,Murilo Oliveira,95,Sim,"07/15/2016, 07:11:16",Sim
+Lorenzo da Mota,Sra. Letícia Lima,70,Não,"07/07/2020, 08:18:14",Não
+Nina Novaes,Isabelly Pinto,29,Sim,"03/30/2001, 13:21:40",Sim
+João Guilherme Pinto,Ana Beatriz Melo,37,Não,"03/03/2012, 16:42:32",Sim
+Vitória Teixeira,Catarina Pinto,95,Sim,"11/13/1998, 10:58:59",Sim
+Nicolas Peixoto,Isis Moura,5,Sim,"05/25/2001, 02:17:34",Sim
+Anthony Ribeiro,LetíciS dS RosS,72,Não,"05/16/2017, 03:02:17",Não
+Isis Ferreira,Sr. Antônio Porto,20,Sim,"07/31/1999, 05:10:20",Sim
+Gustavo da Costa,Camila Freitas,23,Não,"09/11/2013, 11:40:53",Não
+Ana Clara Melo,Lucca da Paz,20,Sim,"05/26/2006, 18:38:18",Sim
+Nathan Cavalcanti,João Pedro Cardoso,35,Sim,"09/18/2015, 14:48:19",Não
+Dr. Breno Rocha,Srta. Maria Julia Alves,99,Não,"09/21/2006, 23:45:17",Sim
+Camila Caldeira,Catarina da Rosa,19,Sim,"08/09/1995, 14:37:30",Sim
+Dr. Ian Fernandes,Luiz Otávio Vieira,64,Não,"05/07/1996, 11:19:48",Sim
+Vicente Correia,Paulo Silva,21,Não,"06/02/2009, 12:28:52",Não
+João Vitor Costela,Heloísa Almeida,92,Não,"06/20/2003, 14:53:20",Sim
+Rodrigo Nascimento,Vinicius Novaes,24,Não,"02/18/2013, 03:17:57",Não
+Maria Cecília Barbosa,Mirehha Ahmeida,79,Não,"10/22/2007, 22:21:34",Sim
+Migiel Vieira,Lucas Gabriel Almeida,96,Sim,"10/05/1999, 20:11:46",Sim
+Nathan Gonçalves,Ana Lívia Barros,85,Sim,"03/24/1996, 13:10:59",Sim
+Esther Ribeiro,Srta. Vitória Freitas,34,Não,"01/30/2013, 07:45:48",Sim
+Bernardo Monteiro,Sr. Fernando Cardoso,37,Sim,"10/21/2015, 22:54:32",Não
+Larissa Barbosa,Daniel Ferreira,86,Sim,"08/14/1999, 08:16:22",Não
+Matheus da Cruz,Dr. Breno Rezende,54,Sim,"10/27/1994, 22:37:19",Não
+Sarah Carvalho,Agatha Alves,39,sim,"04/03/1997, 23:19:33",Sim
+Maria Eduarda Nascimento,Luana Araújo,47,Sim,"10/02/2001, 16:49:10",Não
+Marcelo Gomes,Vitória Lima,53,Não,"07/25/1996, 16:14:27",Sim
+Marcos Vinicius Rodrigues,Calebe Novaes,94,Sim,"04/06/2002, 05:48:05",Sim
+Mariane Lima,Bruna Barbosa,78,Sim,"06/10/2019, 08:29:32",Não
+Sra. Bárbara Azevedo,Melissa Caldeira,45,Não,"06/08/1992, 01:01:14",Sim
+Ana Luiza da Costa,Yasmin Cavalcanti,88,Não,"04/23/2015, 02:24:34",Não
+Yasmin Ferreira,Henrique Lima,49,Não,"10/02/1995, 21:17:07",Não
+Lara da Costa,Diogo da Luz,58,nao,"03/12/2000, 22:13:02",Sim
+Natália da Rocha,Pedro Novaes,3,Sim,"01/31/1991, 03:40:56",Sim
+Anthony Melo,Enzo Gabriel Alves,75,Sim,"10/25/1999, 14:44:00",Sim
+Sr. Vitor da Rocha,Fernanda Cunha,46,Sim,"03/01/2006, 10:38:19",Não
+Daniel Mendes,Mariane da Rocha,88,sim,"02/01/2019, 00:51:57",Sim
+Vinicius Dias,Davi Luiz Cardoso,94,Sim,"07/21/2007, 01:33:50",Sim
+Luiza da Conceição,Laura Correia,60,Não,"01/19/2013, 03:34:09",Não
+Pedro Lucas Ferreira,Ana Lívia Monteiro,93,Não,"01/29/2015, 18:55:20",Não
+Enrico Pereira,Samuel Pires,8,Não,"04/05/1998, 00:50:13",Sim
+Ana Lívia da Mata,Valentina Araújo,33,Sim,"02/19/2009, 02:43:27",Não
+Srta. Olivia Vieira,Luigi Rocha,68,Não,"06/07/2018, 08:52:43",Sim
+Levi Castro,Sr. Lucas Rocha,55,Não,"03/14/2004, 01:55:21",Não
+Lucae da Mota,Srta. Fernanda Rezende,14,Sim,"12/04/1992, 04:04:09",Sim
+Luiz Gustavo Vieira,João Felipe Barros,81,Sim,"06/01/2008, 08:16:30",Sim
+Maria Clara Cardoso,Sarah Alves,53,Não,"09/18/2016, 11:38:08",Sim
+Marcelo Moura,Carolina Cardoso,43,Não,"06/22/2000, 20:42:51",Não
+Maria Eduarda Pires,Sr. João Felipe Araújo,31,Sim,"07/01/2010, 19:24:04",Sim
+Larissa Caldeira,Isis Melo,40,Não,"10/15/1991, 13:30:27",Sim
+Otávio Santos,Gustavo Costela,43,Não,"05/09/2002, 02:10:08",Não
+Ana da Paz,Eduardo Nogueira,68,Não,"08/19/2018, 20:26:18",Não
+Samuel Teixeira,Dr. Alexandre Silva,36,Não,"08/31/2005, 13:11:40",Sim
+Luiz Felipe Oliveira,Lucca da Paz,14,Não,"07/31/2004, 06:06:14",Não
+Pietro da Paz,Lucas da Costa,46,Sim,"01/12/2017, 04:12:31",Sim
+Alexandre Alves,Dr. Caio da Mata,44,Sim,"09/26/1998, 21:27:10",Sim
+Caio da Paz,Sr. Noah Gonçalves,8,Sim,"03/22/2018, 01:00:29",Não
+Kevin Farias,Felipe da Cunha,89,Sim,"07/16/2013, 00:43:13",Sim
+Rafael Costela,Rodrigo Moreira,63,Sim,"04/20/2004, 01:16:32",Sim
+Rodrigo Cardoso,Maria Fernanda Moraes,87,Não,"05/02/2019, 19:35:36",Não
+Lucas Gabriel Pereira,Mariana Pereira,30,Não,"04/19/1995, 08:45:23",Sim
+Alice Mendes,Caroline da Rosa,29,Não,"08/05/1998, 00:11:15",Sim
+Cauã Cavalcanti,Yasmin da Cunha,76,Sim,"05/13/2000, 23:48:53",Não
+Bernardo Cardoso,Emanuella Oliveira,98,Não,"09/05/2000, 13:29:25",Sim
+Lavínia da Cunha,Júlia Peixoto,5,Sim,"10/23/1993, 19:57:06",Não
+Nina Cardoso,Cecília Cardoso,58,Sim,"11/20/2007, 03:41:01",Não
+Luiz Fernando Mendes,Ana Carolina Pinto,60,Não,"05/24/2008, 15:55:58",Não
+Isabelly Silva,Sra. Emanuella Gomes,36,Não,"08/29/2011, 10:24:38",Não
+Sr. Paulo Moraes,Vitória da Cunha,51,Não,"11/27/1996, 19:41:06",Sim
+Luiza da Costa,Mirella da Paz,52,Não,"11/22/2015, 20:37:09",Sim
+Kamilly Pires,João Felipe Viana,65,Sim,"07/12/2008, 03:47:07",Sim
+Alana Vieira,Raul Santos,53,Sim,"03/23/2011, 02:58:09",Não
+Dr. Pedro Henrique Vieira,Sra. Maria Clara Aragão,97,Não,"04/14/2000, 05:30:48",Sim
+Dra. Manuela Almeida,Ana Júlia Vieira,72,Não,"07/06/2008, 16:49:38",Não
+Alexia da Paz,Alice Silveira,44,Sim,"02/12/1997, 07:13:26",Sim
+João Pedro Lopes,Maysa Castro,44,Não,"11/09/2006, 07:13:02",Sim
+Catarina Sales,Raquel Ferreira,10,Sim,"12/19/2016, 22:27:16",nao
+Maria Clara Nogueira,Enzo da Luz,8,Sim,"01/02/2005, 03:38:02",Não
+Anthony Teixeira,Clara Jesus,19,Sim,"07/31/2015, 08:39:25",Não
+Dr. Benício Nogueira,Luna Moura,46,Sim,"10/09/2003, 14:15:37",Não
+Arthur Melo,Bruno Ramos,99,Sim,"02/17/2003, 04:58:37",Sim
+João Felipe Moreira,Alice Barros,69,Não,"06/03/2003, 13:20:26",nao
+Isabel Duarte,Henrique Almeida,17,Não,"07/14/1999, 22:31:22",Sim
+Kaique Oliveira,Brenda Moreira,10,Sim,"01/03/2000, 00:42:53",Sim
+Luiz Gustavo Viana,Alice Barros,81,Sim,"11/24/1996, 08:46:06",Não
+Alexandre da Paz,Bruno Viana,28,Não,"08/09/2011, 22:22:05",Sim
+Francisco Lopes,Bernardo Costela,45,Sim,"03/20/2002, 13:58:52",Sim
+Cauê Gonçalves,Dr. Davi Luiz Barros,72,Sim,"11/24/1992, 18:31:31",Sim
+Francisco Cunha,Dra. Camila Carvalho,9,Não,"12/23/1999, 16:47:55",Não
+João Guilherme Farias,Isabelly Santos,8,Sim,"11/10/2015, 20:50:06",Não
+Maria Cecília Moreira,Lívia Castro,20,Sim,"01/05/2019, 09:49:16",Não
+Maria Luiza Duarte,Bryan da Cunha,80,Sim,"01/24/2002, 08:33:04",Não
+Maria Cecília da Mota,Júlia Nogueira,37,Sim,"06/08/1994, 14:53:56",Não
+Pedro Jesus,Ana Laura Caldeira,42,Sim,"04/19/1995, 05:35:11",Sim
+Maria Julia Martins,Lucas Gabriel Viana,24,Não,"07/09/2003, 10:21:00",Sim
+Sr. Leandro Mendes,Benício das Neves,36,Não,"08/19/2011, 04:53:45",Não
+Cauê Campos,Cauê Peixoto,18,Sim,"09/19/2005, 00:10:46",Sim
+Vitor Hugo da Rosa,Sofia Teixeira,52,Não,"12/30/2014, 23:20:17",Não
+Dr. Leandro Rocha,Lorena da Cruz,28,Não,"04/13/2006, 21:08:18",Sim
+Ana Laura Nogueira,Rodrigo Moura,21,Sim,"04/17/2018, 03:02:01",Não
+Cauã Pires,Lorena Alves,90,Não,"01/28/1991, 06:56:34",Não
+Luiza Castro,Maria Clara Barros,94,Não,"10/12/2019, 17:39:41",Não
+Davi Luiz Cardoso,Srta. Valentina Nascimento,47,Sim,"04/08/1991, 09:46:58",Sim
+Sofia Cardoso,Levi Castro,85,Não,"07/07/1993, 16:56:52",Sim
+Evelyn Peixoto,Lívia Ribeiro,48,Sim,"08/29/2003, 20:14:34",Não
+Mariane Carvalho,Vinicius Barbosa,57,Sim,"05/09/2017, 04:20:11",Sim
+Pedro Miguel Freitas,Maria Alice Teixeira,81,Sim,"08/20/2015, 21:16:39",Sim
+Nicole Cardoso,Rebeca da Costa,70,Sim,"05/14/1995, 10:09:50",Não
+Gustavo da Costa,Luiz Gustavo da Mata,56,Sim,"01/31/1992, 07:17:49",Sim
+Beatriz Alves,Lucca Azevedo,25,Não,"07/06/2014, 05:20:01",Não
+Kamilly Freitas,Bernardo Santos,82,Não,"09/27/2000, 01:36:12",Não
+Sophia Cardoso,Heitor da Cruz,45,Não,"05/16/2006, 06:19:15",Sim
+Sra. Ana Lívia Costela,Vitória Fogaça,68,Não,"09/27/2004, 21:22:15",Sim
+Ana Carolina Caldeira,Maria Luiza Ferreira,42,Sim,"11/29/1994, 06:29:59",Sim
+Maria Eduarda Martins,Lavínia Gonçalves,81,Não,"11/13/1996, 00:13:24",Não
+Luiz Fernando Santos,Felipe da Paz,81,Sim,"06/30/2008, 09:20:58",Sim
+Daniel da Mota,Heloísa Carvalho,34,Não,"08/28/2008, 03:32:28",Não
+Mariane Oliveira,Maria Fernanda Cardoso,15,Não,"02/17/2002, 09:25:11",Não
+Laura Gonçalves,Levi Fernandes,53,nao,"11/16/2005, 12:46:13",Não
+Rodrigo Araújo,Júlia da Mota,75,Não,"03/11/2007, 18:43:24",Não
+Otávio Almeida,Alexandre Ferreira,9,Sim,"10/08/2006, 08:24:47",Não
+Diogo Martins,Bruna Gomes,34,Não,"08/08/2000, 02:15:49",Sim
+Prdro Hrnriqur Castro,Luiz Henrique Jesus,62,Não,"04/07/2017, 08:01:02",Sim
+Rodrigo Pires,Benjamin Jesus,69,Sim,"10/28/1997, 02:27:43",Sim
+Stephany Fogaça,Rebeca Nascimento,28,Sim,"01/18/2000, 04:19:42",Não
+Olivia Almeida,Pedro Henrique Cardoso,78,Sim,"10/10/1990, 16:00:35",Não
+Gabrielly Fernandes,Letícia Freitas,88,Sim,"02/06/2000, 16:19:01",Não
+Vitória Fogaça,João Miguel Santos,5,Sim,"03/20/2012, 11:22:43",Sim
+Enzo Gabriel da Luz,Antônio Moura,74,Não,"12/26/1993, 01:20:22",Não
+Luiz Miguel Ramos,Dr. Thales Vieira,28,Não,"07/19/1998, 21:03:55",Não
+Srta. Raquel Ramos,Henrique Fernandes,77,Não,"05/29/1998, 21:09:53",Não
+Benjamin Cunha,Esther Lopes,9,Não,"10/23/2011, 09:05:13",Não
+Maria Sophia da Cunha,Luiz Fernando Cardoso,98,Não,"12/03/2002, 18:30:45",Não
+Sofia Silva,Dr.kDavikLuizkAlves,8,Sim,"01/17/2016, 14:32:52",Não
+Camila Costela,Thales da Costa,47,Sim,"04/05/2018, 09:01:40",Sim
+Júlia Nogueira,Daniel Souza,78,Sim,"07/30/1996, 18:13:02",Sim
+Anthony Cunha,Matheus Castro,36,Não,"09/01/2017, 04:50:56",Não
+Fernando Monteiro,Kevin Santos,94,Sim,"06/10/1999, 22:39:08",Sim
+Vicente Alves,Júlia Silveira,26,Não,"02/19/2001, 18:38:02",Não
+Luana Araújo,Beatriz Nunes,86,Não,"10/29/2010, 10:52:48",Não
+FernandahdahLuz,Rebeca Souza,53,Sim,"05/10/2013, 12:38:27",Não
+Luiz Henrique Campos,Valentina Barros,17,Não,"12/01/2001, 20:58:35",Não
+Thales Freitas,Srta. Eloah Cavalcanti,68,Sim,"01/03/1994, 14:55:48",Não
+Dra. Maria Vieira,João Felipe Nascimento,66,Sim,"09/14/2000, 02:58:59",Não
+Alice Peixoto,Ana Campos,62,Sim,"06/19/2017, 19:46:09",Não
+Gabrielly Cardoso,Luiz Otávio Martins,17,Sim,"11/28/2002, 08:38:40",Não
+Arthur da Cunha,Isabel Campos,73,Sim,"02/13/1996, 14:12:47",Não
+Vicente Porto,Sr. Daniel Lopes,71,Sim,"06/01/2017, 14:00:27",Sim
+Sr. Davi Luiz Cavalcanti,Yago Martins,34,Sim,"04/01/1999, 10:28:31",Não
+Dr. Carlos Eduardo Teixeira,Alexandre Ferreira,49,Sim,"01/10/1995, 22:36:28",Não
+João Vitor Novaes,Maitê Ramos,39,Sim,"09/19/2008, 11:06:15",Sim
+Otávio Cunha,Maria Luiza Campos,8,Sim,"06/16/2014, 09:07:17",Não
+Vitor Hugo Nascimento,Sra. Maria Clara Teixeira,99,Não,"06/08/1995, 01:42:53",Não
+Sarah Costa,Maria Vitória Duarte,86,Sim,"05/09/2017, 17:25:05",Não
+Marcela Moura,Gustavo Henrique Martins,65,Não,"07/24/2014, 01:44:35",Sim
+Juliana Porto,Catarina Ribeiro,7,Não,"12/14/2016, 05:47:17",Sim
+Maria Lima,Sophia Carvalho,31,Não,"04/09/2004, 12:22:16",Não
+Gustavo Nascimento,Ana Vitória Cavalcanti,3,Sim,"06/05/2000, 11:51:19",Sim
+Sra. Ana Nunes,Dra. Sophia Cardoso,28,Não,"02/19/2000, 18:13:13",Não
+Srta. Maria Clara da Paz,Juliana Santos,58,Sim,"06/24/2020, 12:19:36",Não
+Heitor Moreira,Dr. Davi da Mota,65,Não,"11/20/2011, 02:13:15",Não
+Benjamin Cunha,Lívia Cunha,99,Sim,"10/09/2012, 11:17:08",Sim
+Luiz Gustavo Rocha,Augusto Oliveira,70,Sim,"01/16/2013, 03:37:33",Não
+Otávio Almeida,Rafaela da Rosa,44,Sim,"11/29/2011, 00:11:17",Não
+Luiz Miguel da Costa,Sr. Miguel Vieira,19,Não,"04/04/2011, 10:41:41",Sim
+Ana Julia Pereira,Yasmin Moreira,41,Não,"11/28/1998, 07:04:58",Sim
+Luiz Henrique Duarte,Sra. Juliana Pinto,14,Não,"01/08/2007, 21:40:52",Não
+Nicole Novaes,Evelyn Gomes,33,Sim,"08/09/2007, 08:02:17",Não
+Dr. Heitor da Luz,Carolina Silveira,89,Sim,"06/23/2014, 11:03:40",Sim
+Ana Sophia Azevedo,Kevin da Costa,60,Sim,"06/23/1998, 05:00:32",Não
+Lucas Gabriel Alves,Theo Carvalho,55,Não,"04/06/2007, 21:12:16",Não
+Dr. João Vitor da Mata,Maria Fernanda Azevedo,70,Não,"05/15/2000, 22:39:55",sim
+Luiz Fernando Ribeiro,Murilo Oliveira,86,Sim,"05/06/2013, 17:49:30",Sim
+Dra. Yasmin Campos,Ana Laura Caldeira,83,Sim,"01/17/2007, 19:34:12",Sim
+Fernanda Vieira,Bianca Souza,63,Sim,"05/03/2006, 04:12:50",Sim
+Maria Fernanda Moraes,Masia Sophia Nascimento,37,Sim,"05/06/1996, 22:52:33",Não
+Lucas Gabriel da Mota,Mirella Novaes,7,Sim,"11/21/2000, 15:18:38",Sim
+Sra. Julia Cunha,Heitor da Rosa,71,Sim,"04/21/1998, 05:32:59",Sim
+Giovanna Pires,Helena Correia,10,Sim,"02-02-1992, 05-37-00",Sim
+Mariana Costela,Dr. Antônio Costa,61,Sim,"05/12/1994, 18:57:37",Sim
+Miguel Vieira,Theo Lima,64,Sim,"06-05-1996, 06-35-44",Não
+Ana Carolina Caldeira,Daniela da Paz,71,Sim,"10/11/1994, 23:17:29",Sim
+Srta. Isabella Rezende,Sra. Clarice Moraes,55,Não,"04/05/2008, 05:09:44",Sim
+Milena da Paz,Fernanda Freitas,38,Sim,"07/02/2011, 21:06:10",Não
+Ian da Rosa,Camila Freitas,39,Não,"07/21/1992, 00:43:31",Sim
+Marcela Moura,Heloísa Carvalho,86,Sim,"06/06/2018, 03:51:44",Sim
+Sarah Caldeira,Luiz Henrique Ramos,92,Sim,"06/10/2014, 04:02:04",Não
+Sofia da Rocha,Maysa Ramos,77,Não,"01-12-1997, 18-16-54",Sim
+Camila Caldeira,Benício Pinto,29,Não,"03/13/2003, 20:01:25",Sim
+Leonardo Fogaça,Milena Ferreira,76,Não,"12/31/1997, 18:50:45",Sim
+André da Paz,Dr. Isaac Barbosa,46,Sim,"09/02/2016, 21:08:54",Não
+Juliana Porto,Sr. Carlos Eduardo Peixoto,22,Não,"01/09/1997, 01:05:33",Sim
+Luigi $a Cruz,João Fogaça,35,Sim,"07/15/2019, 09:22:46",Sim
+Sra. Julia Lopes,Matheus Castro,44,Não,"03/23/1992, 14:05:46",Sim
+Thomas Cunha,Dra. Laura Nogueira,54,Sim,"11/27/1993, 20:51:20",Não
+Amanda Silva,Diogo Fernandes,12,Não,"07/31/2003, 06:09:39",Não
+Bruno Santos,Srta. Maria Julia Alves,85,Sim,"04/03/1996, 07:19:21",Sim
+Luiz Miguel das Neves,Maria Cecília Rocha,46,Sim,"06-07-2003, 03-08-37",Não
+Vitor Hugo da Rosa,Milena Alves,98,Sim,"06/28/1992, 13:13:40",Sim
+Dr. Emanuel Carvalho,Paulo Viana,45,Não,"10/11/2013, 00:17:59",Sim
+Ana Beatriz Azevedo,Cauã da Costa,1,Não,"05/13/2014, 10:05:47",Sim
+Luigi Ribeiro,Nina Gonçalves,57,Sim,"05-19-2015, 01-04-12",Não
+Catarina Teixeira,Emanuella Fernandes,56,Sim,"07/08/2018, 13:40:27",Não
+Julia Mendes,Cauã da Costa,20,Não,"02/12/2009, 15:59:38",Sim
+Lucas da Mata,Leandro Jesus,93,Não,"07/14/2008, 14:34:41",Sim
+João Guilherme Lopes,Rafael ilves,34,Não,"07/12/2011, 21:51:51",Não
+Alexia da Rosa,Carolina Peixoto,25,Sim,"09/19/1994, 01:48:01",Sim
+Olivia da Mata,Sr. Bruno Ramos,59,Não,"12/08/2007, 00:47:29",Sim
+Gabrielly Gomes,Clara Silva,21,Sim,"05/22/2010, 18:21:51",Sim
+Pedro Miguel Aragão,Dr. Davi da Mota,38,Não,"09/24/2003, 15:47:28",Não
+Elisa Cardoso,Lavínia Dias,71,Sim,"04/21/2006, 00:49:16",Sim
+Maria Julia da Cunha,Stephany Aragão,4,Não,"01/24/1991, 03:42:41",Não
+Larissa Barbosa,Maysa Castro,14,Não,"07/31/2008, 12:55:35",Não
+Stephany Cardoso,Nina Aragão,6,Não,"07/17/2004, 06:41:17",Não
+Benício Vieira,Heitor Correia,60,Não,"09/18/1994, 04:41:38",Sim
+Theo Pereira,Dr. Danilo Moura,52,Não,"07/27/1998, 14:41:40",Sim
+Dr. Igor Peixoto,Caroline da Mata,18,Sim,"08/23/1999, 09:04:26",Não
+Dr. Enzo Gabriel Carvalho,Isabella Ramos,6,Sim,"06/12/1998, 23:14:17",Não
+Breno Farias,Ana Vitória da Cruz,90,Não,"06/07/2013, 04:57:02",Não
+Sr. Davi Farias,Pietro Costa,57,Sim,"06/02/2005, 18:53:22",Sim
+Marcela Costa,Daniel da Luz,9,Não,"12/14/1990, 14:02:54",Não
+Vitor Hugo Melo,Emilly Souza,68,Não,"03/24/2000, 09:21:40",Sim
+Dra. Yasmin Campos,Theo Cardoso,7,Sim,"09/10/2015, 16:03:25",Não
+Rebeca Viana,Carolina Melo,99,Não,"08/23/2000, 01:45:41",Não
+Emanuella Moura,qoão Fogaça,7,Sim,"09/24/2000, 05:53:09",Sim
+Clarice Silva,João Vitor Nunes,59,Não,"02/18/2005, 01:03:35",Não
+Thiago Fernandes,Sr. Daniel Lopes,14,Sim,"07/18/2011, 09:05:59",Sim
+Ana Sophia Sales,Paulo Gomes,82,Não,"08/20/1997, 19:25:19",Sim
+Rodrigo da Conceição,Amanda Teixeira,56,Não,"12/15/2010, 18:43:04",Sim
+Diego Rezende,Otávio Nunes,57,Sim,"06/30/2002, 19:34:38",Sim
+Laís Moreira,Pedro Mendes,19,Não,"10/31/2007, 15:50:13",Sim
+Arthur da Mata,Isabella Souza,88,Sim,"03/22/2018, 10:03:33",Sim
+Bryan Gonçalves,Maysa Lopes,63,Não,"10/06/1990, 19:15:11",Sim
+LeNndro Pinto,Luiz Gustavo Barbosa,37,Sim,"09/28/2016, 13:41:13",Não
+Benício Pinto,Catarina Teixeira,39,Não,"08/25/2008, 17:02:25",Sim
+Fernando Duarte,Stephany Aragão,14,Sim,"06/19/2000, 06:21:11",Não
+Rodrigo Nascimento,Maria Alice Teixeira,31,Não,"06/27/1992, 01:03:22",Sim
+Sr. Murilo Nunes,Srta. Marcela da Conceição,90,Sim,"06/10/2010, 20:15:32",Sim
+Maria Sophia Costela,Sra. Laura da Cruz,1,Não,"05/28/2015, 06:05:19",Sim
+Stephany Fogaça,Kamilly da Rosa,32,Sim,"07/27/1991, 00:15:12",Sim
+Catarina Lopes,Otávio Nascimento,58,Não,"04/02/2016, 01:06:44",nao
+Enrico Alves,Igor Nascimento,44,Não,"06/19/2016, 10:38:44",Sim
+Ana Vitória Lopes,Guilherme Santos,66,Sim,"08/05/2005, 00:48:33",Sim
+Lorenzo Cardoso,Srta. Rebeca Cardoso,63,Sim,"03/26/2000, 17:31:23",Sim
+Sr. Murilo Ribeiro,Beatriz Correia,46,Não,"02/04/1994, 12:39:18",Sim
+Fernanda Aragão,Alice Aragão,21,Não,"03/18/2000, 09:49:17",Sim
+Isadora Santos,Marcela da Conceição,15,Sim,"03/22/2017, 15:28:30",nao
+Dra. Caroline da Rocha,Maysa Lopes,76,Sim,"06/15/2000, 01:01:50",Sim
+Sra. Larissa Ribeiro,Sra. Julia Jesus,66,Não,"01/06/1992, 05:11:37",Não
+Enrico Caldeira,Pedro Costela,92,Sim,"09/26/1990, 03:47:42",Sim
+Lavínia Freitas,Eloah Araújo,92,Sim,"05/15/2013, 13:20:56",Sim
+Alice Souza,Francisco Pinto,55,Sim,"01/25/1992, 08:22:06",Não
+Levi Caldeira,Bárbara Souza,33,sim,"06/23/2020, 01:55:00",Sim
+Júlia Silveira,Bianca Sales,96,Não,"12/09/2005, 10:33:24",Sim
+Ana Júlia Dias,Mirella Freitas,11,Não,"03/05/2007, 12:40:49",Sim
+Vinicius Melo,Enzo Gabriel Ribeiro,12,Não,"05/23/2019, 20:56:13",Sim
+Cauê Gonçalves,Alexandre Lopes,42,Sim,"06/12/1993, 14:46:15",Sim
+Maria Clara Costa,Stephany Peixoto,21,Sim,"05/05/2020, 08:44:11",Não
+Sr. Daniel Gonçalves,Nina Gonçalves,46,Não,"02/12/1992, 00:16:27",Não
+Samuel Teixeira,Kaique Santos,60,Não,"10/28/2009, 19:08:28",Não
+Yago Castro,Dra. Laura gogueira,7,Sim,"12/17/2019, 12:29:25",Sim
+João Guilherme Teixeira,Catarina Fernandes,15,Não,"05/23/2015, 20:43:56",Não
+Sr. Breno da Luz,Luiz Fernando Melo,14,Não,"07/08/1993, 03:15:00",Não
+Rafael Melo,Ana Beatriz Azevedo,38,Não,"08/10/2004, 12:33:54",Não
+Lucas Gabriel Barros,Marina Barros,94,Sim,"09/27/2001, 00:51:19",Não
+Dr. Ian Nunes,Pedro Moraes,40,Sim,"11/21/1990, 15:00:55",Sim
+Maria Sophia Ferreira,Enzr Gabriel Pereira,28,Não,"02/15/2017, 04:04:48",Não
+Dra. Emilly Barros,Mirella Ribeiro,6,Não,"10/10/1995, 12:58:27",Sim
+Luiz Miguel da Mota,Maysa Carvalho,40,Sim,"03/08/2020, 16:12:53",Sim
+Natália da Cruz,Davi Rezende,9,Não,"06/03/2016, 11:31:26",Não
+Ana Vitória Pereira,Sra. Laís Costa,64,Sim,"12/10/2007, 05:32:24",Não
+João Almeida,Rafaela Moraes,43,Sim,"01/20/2000, 02:36:17",Não
+Benício Caïvalho,Thomas Rodrigues,82,Sim,"07/02/2004, 17:18:45",Sim
+Caroline Viana,Júlia Aragão,15,Sim,"07/27/2008, 21:58:16",Não
+Nina Cardoso,Melissa da Mata,10,Sim,"06/03/2002, 01:21:48",Não
+Laís Nunes,Levi Martins,87,Não,"11/03/1999, 04:22:06",Sim
+Marcelo Barbosa,Ian Moura,76,Sim,"02/15/2010, 06:09:58",Sim
+Ana Sophia Azevedo,Isis Melo,74,Não,"01/28/2011, 22:41:42",Sim
+Beatriz Fernandes,Joana Silveira,5,Não,"06/02/2016, 16:41:17",Não
+Sr. Luiz Miguel Rezende,Thiago Ferreira,72,Sim,"08/11/2016, 08:40:56",Sim
+Luiz Otávio Nogueira,João Vitor Melo,22,Sim,"07/18/2001, 01:10:46",Sim
+Elisa Aragão,Davi Lucca Araújo,63,Sim,"02/15/1998, 04:59:32",Não
+Dra. Sophia Rodrigues,Breno Farias,90,Sim,"09/11/1999, 05:02:18",Sim
+Dra. Ana Vieira,Ana Clara Novaes,9,Sim,"11/04/2015, 04:14:12",Não
+Mirella Pires,Srta. Yasmin Campos,23,Sim,"04/23/2004, 19:23:34",Sim
+Isabella Souza,Srta. Bruna Monteiro,71,Sim,"02/09/2003, 09:52:45",Sim
+Mirella Moura,Otávio Moreira,45,Sim,"05/01/1997, 01:18:37",Sim
+Sra. Elisa Novaes,Sr. Cauã Costela,70,Não,"12/12/2012, 05:56:46",Sim
+Leonardo da Rosa,Carlos Eduardo Rezende,88,Sim,"05/02/1999, 16:15:27",Não
+Daniela da Cunha,Sarah Nascimento,3,Sim,"04/24/2002, 14:09:00",Não
+Sr. João Miguel Melo,Stephany Moreira,75,Sim,"01/07/1996, 12:54:54",Sim
+Nicolas Gomes,Joaquim Novaes,68,Não,"05/09/2004, 20:00:06",Sim
+João Lucas Silveira,Maria Cecília Pereira,12,Sim,"06/09/1995, 13:40:06",Não
+Daniela Nunes,Dra. Alice Freitas,20,Sim,"09/24/1997, 06:07:24",Não
+Juliana da Rocha,Pietra Rocha,75,Sim,"09/01/1994, 04:00:09",Sim
+Caroline Alve ,Thomas Sales,71,Não,"09/29/1991, 20:46:16",Não
+Clara Jesus,Sr. Breno Mendes,5,Não,"05/26/2003, 16:18:27",Não
+Dra. Lívia Caldeira,André da Cunha,91,Sim,"11/03/2007, 18:57:35",Sim
+Gabriel Vieira,Srta. Maria Julia Alves,17,Sim,"08/02/2014, 07:56:21",Não
+Raquel Pereira,Maitê Sales,21,Não,"11-30-1999, 01-26-08",Não
+Lívia Fernandes,Pedro da Luz,13,Sim,"06/18/2003, 09:43:15",Sim
+Alícia Nogueira,Sra. Olivia Cardoso,27,Não,"08/04/2002, 23:28:29",Não
+Erick da Mota,Srta. Ana Júlia da Cruz,88,Sim,"09/20/2010, 01:56:59",nao
+Sra. Mariane Silva,Sr. Bernardo Monteiro,22,Sim,"06/08/2016, 17:58:42",Não
+Ana Vitória Carvalho,Daniela da Paz,21,Não,"07/10/2019, 09:58:06",Não
+Lucas Moura,João Vitor Campos,65,Não,"03/16/1996, 17:49:42",Sim
+Sr. Renan Costa,Davi Freitas,3,Não,"09/24/1993, 01:15:48",Sim
+Ana Julia Novaes,Luiza Pinto,84,Sim,"03/20/2009, 00:12:08",Não
+Vicente Alves,Gustavo Henrique Correia,2,Não,"01/01/1994, 21:57:44",Não
+Fernando Cardoso,Raquel Barros,16,Sim,"05/02/1998, 05:02:41",Não
+Sr. Otávio Cardoso,Guilherme Mendes,55,Sim,"08/08/2000, 15:15:12",Sim
+Clara Mendes,Thomas Moraes,75,Sim,"10/13/1994, 15:18:40",Sim
+Bianca Fernandes,Raquel Caldeira,12,Sim,"05/01/2007, 14:25:32",Sim
+Laís Moreira,Sr. Luiz Felipe Ferreira,60,Não,"08/12/2005, 11:26:07",Não
+João Vitor da Mata,Dr. Lorenzo Araújo,41,Sim,"09/09/2000, 03:44:00",Não
+Kevin Castro,Daniel Ferreira,96,Sim,"12/04/2009, 16:29:29",Não
+Alexandre da Paz,Lorenzo Castro,53,Não,"07/02/2020, 00:56:00",Sim
+Dr. Thales Pinto,Srta. Stella Gonçalves,92,Não,"05/03/2002, 18:11:11",Sim
+Mirella Moreira,Ana Lívia da Cruz,96,Não,"04/14/2005, 12:22:30",Sim
+João Gabriel Moraes,Laura Ribeiro,16,Não,"04-04-2012, 18-39-20",Sim
+Catarina Sales,Pietro Ramos,81,Não,"11/30/1996, 19:26:31",Não
+Dr. Marcelo Souza,Davi Luiz Cardoso,46,Sim,"07/04/1993, 05:33:38",Sim
+Nathan Pires,Eduardo da Costa,90,Sim,"05/24/2005, 22:10:15",Não
+Bruna Peixoto,Sr. Antônio Moraes,53,Sim,"05/18/2019, 00:11:45",Sim
+Srta. Lorena Rocha,Matheus Rocha,2,Não,"12/28/2008, 01:27:50",Não
+Joaquim Carvalho,Samuel Barros,20,Não,"01/17/2007, 21:12:06",Sim
+Gustavo das Neves,Srta. Ana Júlia da Cruz,36,Sim,"02/27/2011, 11:13:31",Não
+Leonardo da Costa,Giovanna Aragão,41,Não,"07/30/2014, 15:44:00",Sim
+Luigi Ribeiro,Ana Beatriz Novaes,45,Não,"09/15/2012, 06:15:24",Sim
+Raul Lima,Davi Lucca Ramos,47,Sim,"01/19/1993, 02:55:01",Sim
+Lucas Gabriel da Mota,Natália Ramos,63,Não,"03/13/2004, 02:19:15",Sim
+Matheus da Cruz,Júlia Freitas,85,Sim,"09/09/2007, 08:01:37",Não
+Dra. Brenda Porto,Sra. Maria Julia da Mata,39,Não,"02/20/2013, 00:03:24",Não
+Dra. Bárbara Nogueira,Dra. Clara da Cruz,19,Não,"07/01/1999, 09:03:27",Sim
+Paulo Lopes,Bryan Araújo,44,Sim,"03/13/2019, 17:18:35",Não
+Bianca Peixoto,Sr. Alexandre Porto,78,Sim,"06/04/2007, 20:28:44",Não
+Thales Pires,Alice Costela,67,Não,"02/12/1998, 00:29:03",Sim
+João Felipe Viana,Eloah Teixeira,47,Não,"05/14/1994, 00:29:39",Não
+Francisco Carvalho,Sr. Murilo Duarte,16,Não,"07/15/1993, 13:38:59",Não
+Eloah Azevedo,Sr. Noah Gonçalves,65,Sim,"02/11/2018, 08:22:18",Sim
+Thomas Azevedo,Sr. João Felipe Araújo,38,Sim,"02/18/2010, 22:58:56",Não
+Luiz Felipe Aragão,Eloah Campos,93,Não,"05/24/1997, 05:57:52",Não
+Elisa Pinto,Leonardo Cunha,50,Não,"05/26/2004, 07:40:13",Sim
+Luana Cardoso,Caroline Lopes,63,Sim,"05/07/2018, 20:13:47",Não
+Sr. Marcelo Rocha,Marcelo das Neves,97,Sim,"01/29/1994, 02:48:13",Sim
+Benício Vieira,Theo Carvalho,38,Sim,"03/08/1996, 06:54:44",Não
+Leandro Lopes,João Lucas Duarte,27,Sim,"06/28/1994, 16:55:26",Não
+Maria Luiza Cardoso,Juan Sales,60,Não,"05/26/2006, 16:38:08",Não
+Eduarda Ferreira,João Vitor Novaes,74,Não,"02/28/2020, 10:18:34",Sim
+João Felipe Santos,Lara Peixoto,64,Sim,"03/02/1999, 20:38:46",Sim
+Carlos Eduardo Porto,Davi Lucca Fernandes,14,Não,"08/05/1998, 09:46:53",Não
+Maria Sophia Azevedo,Julia Rezende,41,Sim,"01/09/2011, 11:57:57",Não
+Gustavo Henrique Nogueira,Vitória Alves,52,Não,"06/28/2004, 15:58:31",Não
+Luiza Moraes,Sr. Gustavo Henrique da Rosa,6,Não,"09/07/1997, 09:45:17",Não
+Nina Cardoso,Alice Caldeira,3,Não,"02/08/2019, 05:38:16",Sim
+João Gabriel Fernandes,Levi Rocha,11,Sim,"09/16/2017, 22:20:36",Não
+Luiz Fernando Duarte,Luiz Felipe Vieira,84,Não,"08/25/2001, 01:04:16",Sim
+Bryan Nogueira,Luiz Otávio Martins,36,Sim,"12/15/1990, 07:16:12",Não
+Srta. Aman#a Farias,Daniela da Mota,30,Não,"09/17/2003, 14:31:22",Não
+Matheus Silva,Dr. Enzo Novaes,33,Não,"02/05/1994, 20:05:27",Sim
+Rafaela Moraes,Levi Ferreira,95,Não,"03/19/2016, 05:55:15",Não
+Helena Vieira,Heitor Correia,25,Não,"04/29/2005, 18:33:53",Sim
+Marina Gonçalves,Raul Aragão,23,Sim,"04/16/1992, 20:39:46",Sim
+Dr. Otávio Costa,Olivia Santos,89,sim,"03/15/1998, 07:24:37",Sim
+Ana Julia Pinto,Isabelly Dias,79,Sim,"04/16/2002, 13:07:26",Não
+Maria Eduarda Martins,Rebeca Araújo,63,Não,"02/25/2007, 00:44:21",Não
+Nina Novaes,Emanuella Nascimento,32,Sim,"12/17/1998, 01:23:04",Sim
+Pedro Henrique Almeida,Erick Rodrigues,2,Sim,"03/03/2010, 11:33:16",Não
+Marcelo Vieira,Rebeca Araújo,21,Sim,"08/30/1993, 12:41:22",Sim
+Dra. Elisa Carvalho,Nicolas Cardoso,97,Não,"05/19/2017, 13:34:15",Não
+Gabriel da Rocha,Matheus Aragão,62,Não,"11/15/2017, 00:48:13",Não
+Sr. Bryan Nascimento,Matheus Souza,79,Não,"09/17/2002, 04:18:51",Não
+Leandro Farias,Rebeca da Costa,83,Sim,"07/18/1992, 06:02:20",Não
+Dr. Luiz Felipe Ramos,Ana Laura Caldeira,94,Sim,"09/14/1995, 20:19:13",Sim
+Thomas da Paz,Laura Ribeiro,65,Sim,"06/17/2008, 19:46:01",Não
+Isaac Santos,Rebeca Cavalcanti,32,Não,"05/29/2005, 15:46:42",Não
+Enzo Novaes,Ana Clara Martins,84,Sim,"05/16/1995, 13:41:36",Sim
+Luigi Costela,Maria Fernanda Azevedo,59,Não,"06/25/1991, 04:00:47",Sim
+Maria Freitas,Sophie Barbosa,12,Sim,"01/21/1995, 10:51:30",Não
+Srta. Lorena Rocha,Sr. Miguel Ribeiro,54,Não,"09/27/1997, 14:04:42",Não
+Dra. Esther da Cunha,Sr. Cauã Costela,88,Não,"01/15/2004, 07:29:13",Não
+João Gabriel Monteiro,Sofia Gonçalves,85,Não,"10/29/2018, 22:22:50",Não
+Ian Lopes,Agatha Alves,97,Não,"08/31/2010, 07:17:44",Não
+Sr. Pedro Miguel Nascimento,Gustavo Henrique da Mata,55,Não,"08/05/2012, 06:46:44",Não
+Francisco Moraes,Srta. Vitória Freitas,18,Não,"03/03/2009, 03:23:53",Não
+Ana Laura Pereira,Thales Nunes,73,Não,"05/31/1992, 16:30:00",Sim
+Emanuella Nunes,Davi Mendes,35,Não,"07/13/2009, 09:16:30",Sim
+Marcela Castro,Luiz{ Souz{,15,Não,"03/24/2009, 20:44:47",Sim
+Sr. Davi Lucca Castro,Vicente Sales,49,Não,"06/21/2010, 01:06:31",Sim
+Sra. Stephany Teixeira,Ana Sophia Peixoto,67,Não,"12/06/2009, 19:11:37",Não
+Sofiy Rodrigues,Maitê da Luz,13,Não,"08/15/2018, 19:30:30",Sim
+Vitor Gabriel Lopes,Luiz Otávio Costa,99,Sim,"06/03/2007, 20:28:02",Não
+Gabriel Pires,Gustavo Henrique Lopes,81,Sim,"12/07/2019, 02:14:27",Sim
+Dra. Joana Barros,Laura Costela,37,Sim,"09/20/2003, 02:44:31",Não
+Dra. Ana Sophia Novaes,Renan Nogueira,81,Não,"12/26/1993, 10:11:03",Sim
+Sra. Bárbara Azevedo,Paulo Gomes,77,Não,"05/03/2004, 02:18:20",Não
+Evelyn Peixoto,Fernanda Sales,44,Não,"06/14/2002, 05:44:26",Sim
+Sra. Julia Costa,Yago Moraes,68,Sim,"04/26/2013, 20:58:18",Não
+Rodrigo Santos,Eloah Farias,21,Sim,"05/27/2017, 14:12:03",Não
+Evelyn Aragão,Sra. Stephany da Cunha,7,Sim,"10/19/1999, 04:12:53",Sim
+Sophia Duarte,Thales Pires,18,Sim,"05/08/2012, 15:20:48",Não
+Dra. Isis Peixo2o,Augusto Pereira,16,Não,"09/27/1997, 21:54:20",Não
+Samuel Jesus,Isabel Carvalho,91,Não,"06/24/2016, 14:13:58",Sim
+Pedro Henrique da Cruz,Davi Lucca Fernandes,85,Não,"06/05/2004, 07:35:18",Sim
+Ian Duarte,Srta. Agatha Moura,74,Sim,"10/20/1990, 17:53:34",Não
+Davi Luiz Vieira,Luna Azevedo,56,Sim,"09/01/2009, 15:18:31",Sim
+Nicole Peixoto,Luiz Gustavo Aragão,41,Sim,"09/12/1994, 04:59:35",Sim
+Juan Moraes,Daniela da Mota,10,Sim,"08/31/2012, 15:49:21",Sim
+Erick Nascimento,Srta. Valentina Nascimento,24,Não,"02/11/2008, 02:20:09",Não
+João Gabriel da Costa,Mariane Lima,98,Não,"11/14/2019, 21:47:18",Não
+Otávio Gomes,Thomas da Cruz,36,Não,"09/22/2003, 07:59:02",Não
+Cauã Costa,Beatriz da Mota,51,Não,"12/12/2011, 02:37:52",Não
+Sr. Noah da Luz,Luiz Felipe Azevedo,88,Não,"02/28/2020, 07:12:32",Sim
+Alice Souza,Thales Pires,19,Sim,"10/28/2004, 19:06:38",Sim
