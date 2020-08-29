@@ -69,8 +69,8 @@ def write_on_dynamo(item: dict):
     )
 
 def upload_to_s3(path: dict, ref_date: datetime, uuid:str):
-    client = boto3.client('s3')
-    response =  client.upload_file(path, S3_BUCKET, str(ref_date.year)+'/'+str(ref_date.month)+'/'+uuid)
+    client = boto3.resource('s3')
+    response =  client.meta.client.upload_file(path, S3_BUCKET, str(ref_date.year)+'/'+str(ref_date.month)+'/'+uuid+'.jpeg')
     print(response)
     return response
 
@@ -83,8 +83,13 @@ for image in images:
     img_dict['db_relation'] = relate_to_db_data(img_dict)
     write_on_dynamo(img_dict)
     upload_to_s3(file_path+'\\'+image['file'],datetime.strptime(img_dict['data'],'%m-%d-%Y %H.%M'),img_dict['uuid'])
-
-open(image['absolute'])
-
-
     
+
+
+
+upload_to_s3(r'C:\Users\hugom\OneDrive\Alura Curso Online\Engenharia de dados I\bd_structure.sql',datetime.now(),'bd_structure.sql')
+
+client = boto3.client('s3')
+response = client.list_objects(
+    Bucket=S3_BUCKET
+)
