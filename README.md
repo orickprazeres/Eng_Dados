@@ -15,4 +15,9 @@ Durante esse curso foi aprendido a:
 - Conectar ao servidor via protocolo SSH
 - Ligar e desligar um servidor via console AWS
 
-## Aula 02 - 
+## Aula 02 - Nesta aula, aprendemos:
+
+- Utilizar um servidor EC2 como um banco Postgres
+- Criar de tabelas em um banco Postgres
+
+## Aula 03 -
