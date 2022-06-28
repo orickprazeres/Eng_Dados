@@ -31,3 +31,8 @@ Durante esse curso foi aprendido a:
 - Diferenças entre um banco na EC2 e um banco gerenciado
 - Criação de um banco RDS
 - Conexão com banco de dados
+
+## 05 - Nesta aula, aprendemos:
+
+- Cópia de dados entre bancos
+- Utilização dos recursos pg_dump e pg_restore
