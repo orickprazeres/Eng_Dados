@@ -20,4 +20,8 @@ Durante esse curso foi aprendido a:
 - Utilizar um servidor EC2 como um banco Postgres
 - Criar de tabelas em um banco Postgres
 
-## Aula 03 -
+## Aula 03 - Nesta aula, aprendemos:
+
+Conectar com um bando de dados
+Operações de dados em Python
+Carregar dados em banco relacional
