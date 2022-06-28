@@ -22,6 +22,12 @@ Durante esse curso foi aprendido a:
 
 ## Aula 03 - Nesta aula, aprendemos:
 
-Conectar com um bando de dados
-Operações de dados em Python
-Carregar dados em banco relacional
+- Conectar com um bando de dados
+- Operações de dados em Python
+- Carregar dados em banco relacional
+
+## Aula 04 - Nesta aula, aprendemos:
+
+- Diferenças entre um banco na EC2 e um banco gerenciado
+- Criação de um banco RDS
+- Conexão com banco de dados
